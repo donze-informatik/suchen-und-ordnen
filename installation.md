@@ -1,7 +1,4 @@
 ## Installation von Anaconda
-
-<details>
-<summary>Installationsanleitung</summary>
     
 1. Anaconda herunterladen  
   Sie können Anaconda [hier herunterladen](https://www.anaconda.com/products/individual)  
