@@ -103,7 +103,7 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
       <li><strong>Windows</strong>: Jupyter Notebook direkt aus dem Start-Menü starten<br/>
          Der Webbrowser wird sich selbst öffnen.<br/>
       <img src="assets/images/launch-jupyter.png" alt="launch-jupyter" width="30%"/></li>
-         </ul>
+   </ol>
 </details>
 
 
