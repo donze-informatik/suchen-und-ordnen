@@ -49,7 +49,7 @@ Sie können diese lokal auf Ihrem Gerät oder online auf Google Colaboration (da
 
 Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch nicht installiert haben, geht dies am einfachsten über Anaconda.
 
-##### <a href="installation.md">Installation von Anaconda</a>
+##### Installation von Anaconda
 
 <details>
 <summary>1. Anaconda herunterladen</summary>
@@ -58,19 +58,35 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
       <li>Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.</li>
       <li>Der Link "Download" scrollt die Seite nach unten.</li>
       <li>Wählen Sie das Download-File, das zu Ihrer Umgebung passt.<br/>
-      Für den **Mac** empfiehlt sich der graphische Installer.</li>
+         Für den <strong>Mac</strong> empfiehlt sich der graphische Installer.</li>
    </ul>
 </details>
 
-2. Anaconda installieren  
-  Folgen Sie den Instruktionen des Installers.  
-  * Die entsprechenden Konfigurationen sollten bereits vorangewählt sein:
-    * Install for: `Just me / Nur für mich installieren`
-    * Destination Folder (Pfad):  
-      **Windows**: `C:\users\IhrBenutzername\anaconda3`
-  * Add Anaconda3 to my PATH environment variable
-  * Register Anaconda3 as my default Python 3.8: *Kein Haken* ist sicherer, falls Sie noch andere Pythonprojekte mit anderen Tools verwenden.
+1. Anaconda herunterladen
+   Sie können Anaconda [hier herunterladen](https://www.anaconda.com/products/individual)  
+   <ul>
+      <li>Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.</li>
+      <li>Der Link "Download" scrollt die Seite nach unten.</li>
+      <li>Wählen Sie das Download-File, das zu Ihrer Umgebung passt.<br/>
+         Für den <strong>Mac</strong> empfiehlt sich der graphische Installer.</li>
+   </ul>
+</details>
 
+
+<details>
+<summary>2. Anaconda installieren</summary>
+  Folgen Sie den Instruktionen des Installers.  
+  <ul>
+      <li>Die entsprechenden Konfigurationen sollten bereits vorangewählt sein:
+         <ul>
+            <li>Install for: `Just me / Nur für mich installieren`</li>
+            <li>Destination Folder (Pfad):<br/>
+               <strong>Windows</strong>: `C:\users\IhrBenutzername\anaconda3`</li>
+         </ul>
+      </li>
+      <li>Add Anaconda3 to my PATH environment variable</li>
+      <li>Register Anaconda3 as my default Python 3.8: <it>Kein Haken</it> ist empfehlenswert, falls Sie noch andere Pythonprojekte mit anderen Tools verwenden.</li>
+</ul>
 
 3. Jupyter Notebook öffnen  
    Es gibt verschiedene Möglichkeiten, wie Sie Jupyter Notebook starten können:
