@@ -110,21 +110,21 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 
 <details>
    <summary>4. Möglichkeiten, das Jupyter Notebook im gewünschten Verzeichnis öffnen</summary>
-   Sie haben die Möglichkeit, Ihr Jupyter Notebook zu öffnen.
+   Sie haben die Möglichkeit, Ihr Jupyter Notebook direkt im Verzeichnis Ihrer Wahl zu öffnen.
    <ul>
       <li><strong>Mac</strong>:<br/>
          <ul>
-           <li>Öffnen Sie das Terminal und gehen Sie direkt ins Verzeichnis Ihrer Wahl
-       `cd ~/schule/informatik/jupyter`</li>
-           <li>Starten Sie das Jupyter Notebook mit dem Befehl
-       `jupyter notebook`</li>
+            <li>Öffnen Sie das Terminal und gehen Sie direkt ins Verzeichnis Ihrer Wahl<br/>
+               `cd ~/schule/informatik/jupyter`</li>
+            <li>Starten Sie das Jupyter Notebook mit dem Befehl<br/>
+               `jupyter notebook`</li>
          </ul>
       </li>
       <li><strong>Windows</strong>:
          <ul>
-            <li>In diesem Beispiel ist das Verzeichnis: `C:\Users\User\Jupyter` <br/>
-        (Benutzername: "User")</li>
-           <li>Machen Sie einen Shortcut des Jupiter Launchers auf den auf dem Desktop.
+            <li>In diesem Beispiel ist das Verzeichnis: `C:\Users\User\Jupyter`<br/>
+               (Benutzername: "User")</li>
+            <li>Machen Sie einen Shortcut des Jupiter Launchers auf den auf dem Desktop.
                <ul>
                   <li>Rechtsklick darauf -> Properties</li>
                   <li>Nun können Sie in den Feldern Target bzw. Start in `%USERPROFILE%` bzw. `%HOMEPATH%` durch Ihren Pfad ersetzen:<br/>
@@ -132,8 +132,9 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
                   </li>
                </ul>
             </li>
-        </li>
- </ul>
+         </ul>
+      </li>
+   </ul>
 
 </details>  
 
