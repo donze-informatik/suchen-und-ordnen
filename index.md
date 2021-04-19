@@ -62,7 +62,6 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
    </ul>
 </details>
 
-
 <details>
    <summary>2. Anaconda installieren</summary>
    Folgen Sie den Instruktionen des Installers.  
