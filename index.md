@@ -49,11 +49,9 @@ Sie können diese lokal auf Ihrem Gerät oder online auf Google Colaboration (da
 
 Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch nicht installiert haben, geht dies am einfachsten über Anaconda.
 
-##### Installation von Anaconda
+##### <a href="installation.md">Installation von Anaconda</a>
 
-<details>
-<summary>Installationsanleitung</summary>
-    
+
 1. Anaconda herunterladen  
   Sie können Anaconda [hier herunterladen](https://www.anaconda.com/products/individual)  
   * Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos. 
