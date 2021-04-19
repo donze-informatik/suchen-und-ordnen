@@ -53,17 +53,7 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 
 <details>
 <summary>1. Anaconda herunterladen</summary>
-   Sie können Anaconda [hier herunterladen](https://www.anaconda.com/products/individual)  
-   <ul>
-      <li>Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.</li>
-      <li>Der Link "Download" scrollt die Seite nach unten.</li>
-      <li>Wählen Sie das Download-File, das zu Ihrer Umgebung passt.<br/>
-         Für den <strong>Mac</strong> empfiehlt sich der graphische Installer.</li>
-   </ul>
-</details>
-
-1. Anaconda herunterladen
-   Sie können Anaconda [hier herunterladen](https://www.anaconda.com/products/individual)  
+   Sie können Anaconda <href="https://www.anaconda.com/products/individual" target="_blank">hier herunterladen</href>.  
    <ul>
       <li>Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.</li>
       <li>Der Link "Download" scrollt die Seite nach unten.</li>
@@ -74,9 +64,9 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 
 
 <details>
-<summary>2. Anaconda installieren</summary>
-  Folgen Sie den Instruktionen des Installers.  
-  <ul>
+   <summary>2. Anaconda installieren</summary>
+   Folgen Sie den Instruktionen des Installers.  
+   <ul>
       <li>Die entsprechenden Konfigurationen sollten bereits vorangewählt sein:
          <ul>
             <li>Install for: `Just me / Nur für mich installieren`</li>
@@ -86,41 +76,63 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
       </li>
       <li>Add Anaconda3 to my PATH environment variable</li>
       <li>Register Anaconda3 as my default Python 3.8: <it>Kein Haken</it> ist empfehlenswert, falls Sie noch andere Pythonprojekte mit anderen Tools verwenden.</li>
-</ul>
+   </ul>
+</details>
 
-3. Jupyter Notebook öffnen  
-   Es gibt verschiedene Möglichkeiten, wie Sie Jupyter Notebook starten können:
-   1. Jupyter über das Programm *Anaconda Navigator* öffnen
-      Sie finden es am einfachsten so:
-      * **Mac**: Öffnen Sie *Anaconda Navogator*  
-        (Sie finden es am einfachsten über die Spotlight-Suche mit \[ ⌘ + Leertaste \] )  
-        **Windows**: Öffnen Sie das Programm Anaconda Navigator  
-        (über den Startknopf, unter A: Anaconda)
-        <img src="assets/images/launch-navigator.png" alt="launch-navigator" width="30%"/>
-                
-      * Im Anaconda Navigator finden Sie Jupyter und andere Tools.
-      
-        <img src="assets/images/anaconda-navigator.png" alt="anaconda-navigator"/>
-      
-        * Starten Sie Jupyter über den Button "Launch".  
-        * In Ihrem Standard-Web-Browser sollte sich nun Jupyter öffnen.
-    2. **Windows**: Jupyter Notebook direkt aus dem Start-Menü starten  
-      * Unter Windows können Sie alternativ dazu ein Jupyter Notebook direkt aus dem Startmenü heraus starten, woraufhin sich der Webbrowser selbst öffnen wird.  
-      <img src="assets/images/launch-jupyter.png" alt="launch-jupyter" width="30%"/>
 
-4. Möglichkeiten, das Jupyter Notebook im gewünschten Verzeichnis öffnen
+<details>
+   <summary>3. Jupyter Notebook öffnen</summary>
+   Es gibt verschiedene Möglichkeiten, wie Sie Jupyter Notebook starten können.
+   <ol>
+      <li>Am einfachsten starten Sie Jupyter über das Programm <it>Anaconda Navigator</it>.<br/>
+         Öffnen Sie das Programm <it>Anaconda Navigator</it>.
+         <ul>
+            <li><strong>Mac</strong>:<br/>
+               Sie finden es am einfachsten über die Spotlight-Suche mit [⌘ + Leertaste].</li>
+            <li><strong>Windows</strong>:<br/>
+               Sie finden es über den Startknopf bei den Programmen unter A: Anaconda.<br/>
+               <img src="assets/images/launch-navigator.png" alt="launch-navigator" width="30%"/>
+            </li>
+         </ul>
+         Im <strong>Anaconda Navigator</strong> finden Sie Jupyter und andere Tools.<br/>
+         <img src="assets/images/anaconda-navigator.png" alt="anaconda-navigator"/>
+         <ul>   
+            <li>Starten Sie Jupyter über den Button "Launch".</li>
+            <li>In Ihrem Standard-Web-Browser sollte sich nun Jupyter öffnen.</li>
+         </ul>
+      </li>
+      <li><strong>Windows</strong>: Jupyter Notebook direkt aus dem Start-Menü starten<br/>
+         Der Webbrowser wird sich selbst öffnen.<br/>
+      <img src="assets/images/launch-jupyter.png" alt="launch-jupyter" width="30%"/></li>
+         </ul>
+</details>
+
+
+<details>
+   <summary>4. Möglichkeiten, das Jupyter Notebook im gewünschten Verzeichnis öffnen</summary>
    Sie haben die Möglichkeit, Ihr Jupyter Notebook zu öffnen.
-   * **Mac**:  
-     * Öffnen Sie das Terminal und gehen Sie direkt ins Verzeichnis Ihrer Wahl
-       `cd ~/schule/informatik/jupyter`
-     * Starten Sie das Jupyter Notebook mit dem Befehl
-       `jupyter notebook`
-   * **Windows**:  
-     * Mein Verzeichnis ist: `C:\Users\User\Jupyter`
-     * Machen Sie einen Shortcut des Jupiter Launchers auf den auf dem Desktop.  
-        * Rechtsklick darauf -> Properties  
-        * Nun können Sie in den Feldern Target bzw. Start in `%USERPROFILE%` bzw. `%HOMEPATH%` durch Ihren Pfad ersetzen:
-        <img src="assets/images/installation-path.png" alt="pfad" width="80%"/>
+   <ul>
+      <li><strong>Mac</strong>:<br/>
+         <ul>
+           <li>Öffnen Sie das Terminal und gehen Sie direkt ins Verzeichnis Ihrer Wahl
+       `cd ~/schule/informatik/jupyter`</li>
+           <li>Starten Sie das Jupyter Notebook mit dem Befehl
+       `jupyter notebook`</li>
+         </ul>
+      </li>
+      <li><strong>Windows</strong>:
+         <ul>
+            <li>In diesem Beispiel ist das Verzeichnis: `C:\Users\User\Jupyter` <br/>
+        (Benutzername: "User")</li>
+           <li>Machen Sie einen Shortcut des Jupiter Launchers auf den auf dem Desktop.
+               <ul>
+                  <li>Rechtsklick darauf -> Properties</li>
+                  <li>Nun können Sie in den Feldern Target bzw. Start in `%USERPROFILE%` bzw. `%HOMEPATH%` durch Ihren Pfad ersetzen:<br/>
+                     <img src="assets/images/installation-path.png" alt="pfad" width="80%"/>
+                  </li>
+               </ul>
+            </li>
+        </li>
  
 
 </details>  
