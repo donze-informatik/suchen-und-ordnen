@@ -51,13 +51,16 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 
 ##### <a href="installation.md">Installation von Anaconda</a>
 
-
-1. Anaconda herunterladen  
-  Sie können Anaconda [hier herunterladen](https://www.anaconda.com/products/individual)  
-  * Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos. 
-  * Der Link "Download" scrollt die Seite nach unten.
-  * Wählen Sie das Download-File, das zu Ihrer Umgebung passt.  
-    Für den **Mac** empfiehlt sich der graphische Installer.
+<details>
+<summary>1. Anaconda herunterladen</summary>
+   Sie können Anaconda [hier herunterladen](https://www.anaconda.com/products/individual)  
+   <ul>
+      <li>Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.</li>
+      <li>Der Link "Download" scrollt die Seite nach unten.</li>
+      <li>Wählen Sie das Download-File, das zu Ihrer Umgebung passt.<br/>
+      Für den **Mac** empfiehlt sich der graphische Installer.</li>
+   </ul>
+</details>
 
 2. Anaconda installieren  
   Folgen Sie den Instruktionen des Installers.  
@@ -67,18 +70,6 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
       **Windows**: `C:\users\IhrBenutzername\anaconda3`
   * Add Anaconda3 to my PATH environment variable
   * Register Anaconda3 as my default Python 3.8: *Kein Haken* ist sicherer, falls Sie noch andere Pythonprojekte mit anderen Tools verwenden.
-
-<details>
-<summary>Windows</summary>
-
-<p>...</p>
-</details>  
-
-<details>
-<summary>Mac</summary>
-
-<p>...</p>
-</details>  
 
 
 3. Jupyter Notebook öffnen  
