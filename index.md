@@ -82,7 +82,7 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 <details>
    <summary>3. Jupyter Notebook öffnen</summary>
    Es gibt verschiedene Möglichkeiten, wie Sie Jupyter Notebook starten können.
-   <ol>
+   <ul>
       <li>Am einfachsten starten Sie Jupyter über das Programm <it>Anaconda Navigator</it>.<br/>
          Öffnen Sie das Programm <it>Anaconda Navigator</it>.
          <ul>
@@ -93,7 +93,8 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
                <img src="assets/images/launch-navigator.png" alt="launch-navigator" width="30%"/>
             </li>
          </ul>
-         Im <strong>Anaconda Navigator</strong> finden Sie Jupyter und andere Tools.<br/>
+      </li>
+      <li>Im <strong>Anaconda Navigator</strong> finden Sie Jupyter und andere Tools.<br/>
          <img src="assets/images/anaconda-navigator.png" alt="anaconda-navigator"/>
          <ul>   
             <li>Starten Sie Jupyter über den Button "Launch".</li>
@@ -103,7 +104,7 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
       <li><strong>Windows</strong>: Jupyter Notebook direkt aus dem Start-Menü starten<br/>
          Der Webbrowser wird sich selbst öffnen.<br/>
       <img src="assets/images/launch-jupyter.png" alt="launch-jupyter" width="30%"/></li>
-   </ol>
+   </ul>
 </details>
 
 
@@ -132,7 +133,7 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
                </ul>
             </li>
         </li>
- 
+ </ul>
 
 </details>  
 
