@@ -1,8 +1,36 @@
-## Welcome to GitHub Pages
+## Suchen und Ordnen
 
-You can use the [editor on GitHub](https://github.com/donze-informatik/suchen-und-ordnen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hier üben Sie den Umgang mit Arrays (Listen in Python) am Beispiel von Such- und Sortieralgorithmen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Voraussetzungen
+
+#### Programmierkenntnisse
+Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vorausgesetzt:
+
+* Variablen
+  *  Ein- und Ausgabe mit den Funktionen `input()` und `print()`
+  *  Verändern von Variablen (`+=`, `-=`, `*=`, `/=`)
+* Datentypen
+  *  Strings (Zeichenketten)
+  *  Integer (Ganzzahlen)
+  *  Float (Fliesskommazahlen)
+  *  Booleans (Wahr/Falsch)
+* Kontrollstrukturen
+  * Verzweigungen und logische Ausdrücke
+  * for-Schleifen
+
+#### Tools
+
+Dieser Kurs verwendet Jupyter Notebooks. Sie können diese lokal auf Ihrem Gerät oder online auf Google Colaboration (dafür ist ein Google-Account nötig) nutzen. Die Jupyter Notebooks werden im Web Browser dargestellt. Sie benötigen also auch einen Web Browser wie Chrome, Safari, Firefox, etc.
+
+Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch nicht installiert haben, geht dies am einfachsten über Anaconda.
+
+##### Installation von Anaconda
+
+
+
+
+------
 
 ### Markdown
 
