@@ -11,7 +11,7 @@ Nach einer Einführung in Arrays (Listen), werden verschiedene Such- und Sortier
     * Iteration über Listen
     * Zugriff auf Listenbereiche
     * Material:
-      Jupyter Notebook: arrays.ipynb [Download](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/arrays.ipynb), [Google Colaboration]()
+      Jupyter Notebook: arrays.ipynb [Download](assets/notebooks/solutions/Arrays.ipynb), [Google Colaboration]()
 * Algorithmen zum Suchen und Ordnen
    * Suche nach einem Element in einer 
       * ungeordneten Liste
