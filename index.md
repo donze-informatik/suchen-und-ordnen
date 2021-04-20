@@ -6,7 +6,7 @@ Hier lernen Sie, Daten strukturiert in Arrays (in Python: Listen) zu speichern u
 
 Nach einer Einführung in Arrays (Listen), werden verschiedene Such- und Sortieralgorithmen besprochen gefolgt von den Teilen Suchen und Ordnen (Sortieren). Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
 
-* Arrays (in Python: Listen) als Sammelgefäss von Elementen
+* Arrays (in Python: Listen) als Sammelgefäss von Daten
     * Erstellen von Listen
     * Iteration über Listen
     * Zugriff auf Listenbereiche
