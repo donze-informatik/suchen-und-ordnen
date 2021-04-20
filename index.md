@@ -53,7 +53,7 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 
 <details>
 <summary>1. Anaconda herunterladen</summary>
-   Sie können Anaconda <href="https://www.anaconda.com/products/individual" target="_blank">hier herunterladen</href>.  
+   Sie können Anaconda <a href="https://www.anaconda.com/products/individual" target="_blank">hier herunterladen</a>.  
    <ul>
       <li>Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.</li>
       <li>Der Link "Download" scrollt die Seite nach unten.</li>
