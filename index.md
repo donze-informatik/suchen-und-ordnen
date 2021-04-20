@@ -10,12 +10,22 @@ Nach einer Einführung in Arrays (Listen), werden verschiedene Such- und Sortier
     * Erstellen von Listen
     * Iteration über Listen
     * Zugriff auf Listenbereiche
-    * Material:
-      Jupyter Notebook: arrays.ipynb [Download](assets/notebooks/solutions/Arrays.ipynb), [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays.ipynb)
+    * Material:  
+      Jupyter Notebook: Arrays.ipynb  
+      * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Arrays.ipynb)
+      * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays.ipynb)
+    * Zusatzmaterial zu Zufallszahlen:  
+      Jupyter Notebook: Zufallszahlen.ipynb  
+      * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Zufallszahlen.ipynb)
+      * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen.ipynb)
 * Algorithmen zum Suchen und Ordnen
-   * Suche nach einem Element in einer 
+   * Suche nach einem Element in einer
       * ungeordneten Liste
       * geordneten Liste
+      * Material:  
+      Jupyter Notebook: Suchen.ipynb  
+      * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Suchen.ipynb)
+      * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Suchen.ipynb)
    * Sortieren von Listen nach verschiedenen Algorithmen
       * Insertion Sort
          * Einfügen eines Elements in eine Liste
@@ -24,6 +34,10 @@ Nach einer Einführung in Arrays (Listen), werden verschiedene Such- und Sortier
       * Bubble Sort
          * Vertausch zweier Listenelemente
          * Sinn der Optimierung von Algorithmen
+         * Material:  
+         Jupyter Notebook: Bubblesort.ipynb  
+         * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Bubblesort.ipynb)
+         * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Bubblesort.ipynb)
       * Merge Sort
          * Zusammenfügen (Merge) zweier sortierter Listen 
 
