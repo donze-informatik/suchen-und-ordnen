@@ -169,7 +169,32 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 
 </details>  
 
+------
+# Quiz
 
+<label for="cars">Choose a car:</label>
+
+<select id="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="mercedes">Mercedes</option>
+  <option value="audi">Audi</option>
+</select>
+
+
+What is your favorite primary color?<br>
+<input type="radio" name="fav_color" value="Red">Red<br>
+<input type="radio" name="fav_color" value="Blue" checked>Blue<br>
+<input type="radio" name="fav_color" value="Yellow">Yellow
+
+What pet(s) do you have?<br>
+<input type="checkbox" name="pets" value="Dog"> Dog<br>
+<input type="checkbox" name="pets" value="Cat"> Cat<br>
+<input type="checkbox" name="pets" value="Bird"> Bird<br>
+<input type="checkbox" name="pets" value="Mouse"> Mouse<br>
+<input type="checkbox" name="pets" value="Hamster"> Hamster<br>
+<input type="checkbox" name="pets" value="Alligator"> Alligator<br>
+<input type="checkbox" name="pets" value="Other"> Other<br>
 ------
 
 ### Markdown
