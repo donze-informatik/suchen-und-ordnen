@@ -1,31 +1,32 @@
 ## Arrays (Listen) am Beispiel "Suchen und Ordnen"
 
-Hier lernen Sie, Daten strukturiert in Arrays (Listen in Python) zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
+Hier lernen Sie, Daten strukturiert in Arrays (in Python: Listen) zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
 
 ### Inhalt
 
-Der Kurs ist in drei Teile gegliedert, eine Einführung in Arrays (Listen), gefolgt von den Teilen Suchen und Ordnen (Sortieren). Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
+Nach einer Einführung in Arrays (Listen), werden verschiedene Such- und Sortieralgorithmen besprochen gefolgt von den Teilen Suchen und Ordnen (Sortieren). Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
 
-* Arrays (Python: Listen) als Sammlung von Elementen
+* Arrays (in Python: Listen) als Sammelgefäss von Elementen
     * Erstellen von Listen
     * Iteration über Listen
-    * Zugriff auf Teilbereiche von Listen
-* Suche nach einem Element in einer 
-    * ungeordneten Liste
-    * geordneten Liste
-* Sortieren von Listen nach verschiedenen Algorithmen
-    * Insertion Sort
-        * Einfügen eines Elements in eine Liste
-    * Selection Sort
-        * Suche nach dem kleinsten bzw. grössten Element einer Liste
-    * Bubble Sort
-        * Vertausch zweier Listenelemente
-        * Sinn der Optimierung von Algorithmen
-    * Merge Sort
-        * Zusammenfügen (Merge) zweier sortierter Listen
-        
-        
-        
+    * Zugriff auf Listenbereiche
+    * Material:
+      Jupyter Notebook: arrays.ipynb [Download](), [Google Colaboration]()
+* Algorithmen zum Suchen und Ordnen
+   * Suche nach einem Element in einer 
+      * ungeordneten Liste
+      * geordneten Liste
+   * Sortieren von Listen nach verschiedenen Algorithmen
+      * Insertion Sort
+         * Einfügen eines Elements in eine Liste
+      * Selection Sort
+         * Suche nach dem kleinsten bzw. grössten Element einer Liste
+      * Bubble Sort
+         * Vertausch zweier Listenelemente
+         * Sinn der Optimierung von Algorithmen
+      * Merge Sort
+         * Zusammenfügen (Merge) zweier sortierter Listen 
+
 ### Voraussetzungen
 
 #### Programmierkenntnisse
@@ -33,15 +34,20 @@ Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vora
 
 * Variablen
   *  Ein- und Ausgabe mit den Funktionen `input()` und `print()`
-  *  Verändern von Variablen (`+=`, `-=`, `*=`, `/=`)
+  *  Verändern von Variablen (`=`, `+=`, `-=`, `*=`, `/=`)
 * Datentypen
   *  Strings (Zeichenketten)
   *  Integer (Ganzzahlen)
   *  Float (Fliesskommazahlen)
   *  Booleans (Wahr/Falsch)
 * Kontrollstrukturen
-  * Verzweigungen und logische Ausdrücke
+  * Verzweigungen 
+    * einseitig (`if`)
+    * zweiseitig (`if` - `else`)
+    * mehrseitig (`if` - `elif` - `else`)
+    * Logische Ausdrücke mittels relationaler (`>`, `<`, `==`, `!=`, `>=`, `<=`) und logischer (`and`, `or`, `not`) Operatoren
   * for-Schleifen
+* Funktionen
 
 #### Tools
 
@@ -59,9 +65,17 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
    Sie können Anaconda <a href="https://www.anaconda.com/products/individual" target="_blank">hier herunterladen</a>.  
    <ul>
       <li>Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.</li>
-      <li>Der Link "Download" scrollt die Seite nach unten.</li>
-      <li>Wählen Sie das Download-File, das zu Ihrer Umgebung passt.<br/>
-         Für den <strong>Mac</strong> empfiehlt sich der graphische Installer.</li>
+      <li>Ein Klick auf den Button "Download" unter dem obersten Abschnitt scrollt die Seite an den richtigen Ort.</li>
+      <li>Wählen Sie das Download-File, das zu Ihrer Umgebung passt.
+         <ul>
+            <li>Für den <strong>Mac</strong> empfiehlt sich der graphische Installer.</li>
+            <li><strong>Windows</strong>: Wenn Sie nicht sicher sind, ob Sie einen 32-bit- oder 64-bit-Prozessor haben:<br/>
+                öffnen Sie ein Explorerfenster, Recktsklich auf "Die §ser PC" > Eigenschaften > Systemtyp.
+               <img src="assets/images/contextmenue.png" alt="pfad" width="20%"/>
+            <img src="assets/images/systeminfo.png" alt="pfad" width="60%"/>
+            </li>
+         </ul>
+      </li>
    </ul>
 </details>
 
@@ -127,7 +141,7 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
          <ul>
             <li>In diesem Beispiel ist das Verzeichnis: `C:\Users\User\Jupyter`<br/>
                (Benutzername: "User")</li>
-            <li>Machen Sie einen Shortcut des Jupiter Launchers auf den auf dem Desktop.
+            <li>Machen Sie einen Shortcut des Jupyter Launchers auf den auf dem Desktop.
                <ul>
                   <li>Rechtsklick darauf -> Properties</li>
                   <li>Nun können Sie in den Feldern Target bzw. Start in `%USERPROFILE%` bzw. `%HOMEPATH%` durch Ihren Pfad ersetzen:<br/>
