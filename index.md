@@ -1,8 +1,10 @@
 ## Arrays (Listen) am Beispiel "Suchen und Ordnen"
 
-Hier üben Sie den Umgang mit Arrays (Listen in Python) am Beispiel von Such- und Sortieralgorithmen.
+Hier lernen Sie, Daten strukturiert in Arrays (Listen in Python) zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
 
-### Hier werden Sie folgendes lernen
+### Inhalt
+
+Der Kurs ist in drei Teile gegliedert, eine Einführung in Arrays (Listen), gefolgt von den Teilen Suchen und Ordnen (Sortieren). Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
 
 * Arrays (Python: Listen) als Sammlung von Elementen
     * Erstellen von Listen
@@ -21,6 +23,7 @@ Hier üben Sie den Umgang mit Arrays (Listen in Python) am Beispiel von Such- un
         * Sinn der Optimierung von Algorithmen
     * Merge Sort
         * Zusammenfügen (Merge) zweier sortierter Listen
+        
         
         
 ### Voraussetzungen
