@@ -11,7 +11,6 @@ Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgor
 * **Vorbereitende Inhalte**
   * Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
   * Einführung in Fehlermeldungen
-  * Einführung in Algorithmen
   * Material:  
   Jupyter Notebook: Erste-Schritte.ipynb  
     * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Erste-Schritte.ipynb) [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
@@ -29,8 +28,14 @@ Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgor
     * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Zufallszahlen.ipynb) [Lösungen](assets/notebooks/Zufallszahlen-Loesungen.ipynb)
     * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Zufallszahlen.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen-Loesungen.ipynb)
 * **Algorithmen zum Suchen und Ordnen**  
-   Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen (keine deutschen Untertitel verfügbar).  
-[![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
+  * Einführung in Algorithmen
+       Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (keine deutschen Untertitel verfügbar) zeigt auf, worauf Sie achten müssen, wenn Sie Algorithmen beschreiben.  
+       [![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
+
+    * Material:  
+      Jupyter Notebook: Erste-Schritte.ipynb  
+    * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Algorithmen.ipynb) [Lösungen](assets/notebooks/Algorithmen-Loesungen.ipynb)
+    * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Algorithmen.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Algorithmen-Loesungen.ipynb)
 
   * Einführung ins Thema **Suchen**
     * Suche nach einem Element in einer
