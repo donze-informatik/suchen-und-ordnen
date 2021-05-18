@@ -25,7 +25,7 @@ Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgor
     * Zur lokalen Bearbeitung: Download [Notebook](assets/scripts/solutions/Zufallszahlen.ipynb) [Lösungen](assets/notebooks/solutions/Zufallszahlen.ipynb)
     * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen.ipynb)
 * **Algorithmen zum Suchen und Ordnen**  
-   Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen. Deutsche Untertitel sind nicht verfügbar.
+   Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen (keine deutschen Untertitel verfügbar).  
 [![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
 
   * Einführung ins Thema **Suchen**
@@ -37,7 +37,7 @@ Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgor
       * Zur lokalen Bearbeitung: Download [Notebook](assets/scripts/solutions/Suchen.ipynb) [Lösungen](assets/notebooks/solutions/Suchen.ipynb)
       * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Suchen.ipynb)
   * **Sortieren** von Listen nach verschiedenen Algorithmen  
-    Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen. Deutsche Untertitel sind verfügbar.
+    Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen (deutsche Untertitel verfügbar).  
    [![Fastest Way to alphetize your Bookshelf](https://img.youtube.com/vi/WaNLJf8xzC4/0.jpg)](https://youtu.be/WaNLJf8xzC4)
     * Insertion Sort
       * Einfügen eines Elements in eine Liste
@@ -81,7 +81,9 @@ Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vora
     * einseitig (`if`)
     * zweiseitig (`if` - `else`)
     * mehrstufig (`if` - `elif` - `else`)
-    * Logische Ausdrücke mittels relationaler (`>`, `<`, `==`, `!=`, `>=`, `<=`) und logischer (`and`, `or`, `not`) Operatoren
+    * Logische Ausdrücke mittels
+      * relationaler Operatoren (`>`, `<`, `==`, `!=`, `>=`, `<=`)
+      * logischer Operatoren (`and`, `or`, `not`)
   * Schleifen
     * zählergesteuert (`for`-Schleifen)
     * kopfgesteuert (`while`-chleifen)
