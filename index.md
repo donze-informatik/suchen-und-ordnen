@@ -9,7 +9,7 @@ Nach einer Einführung in Jupyter Notebooks und Markdown anhand einer Auffrischu
 Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
 
 **Hinweis falls Sie lokal auf Ihrem Rechner arbeiten**  
-Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein wie die Jupyter Notebooks (.ipynb-Dateien). Am einfachsten laden Sie die Bilder gleich alle als Zip herunter: [bilder.zip](assets/bilder.zip) und entpacken es gleich. Oder Sie laden gleich alles herunter, alle Notebools und alle Bilder: [suchen-und ordnen.zip](assets/suchen-und-ordnen.zip)
+Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein wie die Jupyter Notebooks (.ipynb-Dateien). Am einfachsten laden Sie die Bilder gleich alle als Zip herunter: [bilder.zip](assets/bilder.zip) und entpacken es gleich. Oder Sie laden gleich alles herunter, alle Notebools und alle Bilder: [notebooks.zip](assets/notebooks.zip)
 
 * **Vorbereitende Inhalte**
   * Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
