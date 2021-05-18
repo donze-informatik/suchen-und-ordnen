@@ -8,27 +8,35 @@ Nach einer Einführung in Jupyter Notebooks und Markdown anhand einer Auffrischu
 
 Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
 
+* Vorbereitende Inhalte
+  * Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
+  * Einführung in Fehlermeldungen
+  * Einführung in Algorithmen
 * Arrays (in Python: Listen) als Sammelgefäss von Daten
-    * Erstellen von Listen
-    * Iteration über Listen
-    * Zugriff auf Listenbereiche
-    * Material:  
-      Jupyter Notebook: Arrays.ipynb  
-      * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Arrays.ipynb)
-      * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays.ipynb)
+  * Erstellen von Listen
+  * Iteration über Listen
+  * Zugriff auf Listenbereiche
+  * Material:  
+   Jupyter Notebook: Arrays.ipynb  
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Arrays.ipynb)
+    * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays.ipynb)
     * Zusatzmaterial zu Zufallszahlen:  
-      Jupyter Notebook: Zufallszahlen.ipynb  
-      * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Zufallszahlen.ipynb)
-      * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen.ipynb)
+   Jupyter Notebook: Zufallszahlen.ipynb  
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Zufallszahlen.ipynb)
+    * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen.ipynb)
 * Algorithmen zum Suchen und Ordnen
-   * Suche nach einem Element in einer
+[![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
+
+  * Einführung ins Thema Suchen
+    * Suche nach einem Element in einer
       * ungeordneten Liste
       * geordneten Liste
       * Material:  
       Jupyter Notebook: Suchen.ipynb  
       * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Suchen.ipynb)
       * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Suchen.ipynb)
-   * Sortieren von Listen nach verschiedenen Algorithmen
+  * Sortieren von Listen nach verschiedenen Algorithmen
+   [![Fastest Way to alphetize your Bookshelf](https://img.youtube.com/vi/WaNLJf8xzC4/0.jpg)](https://youtu.be/WaNLJf8xzC4)
       * Insertion Sort
          * Einfügen eines Elements in eine Liste
       * Selection Sort
@@ -46,6 +54,7 @@ Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgor
 ### Voraussetzungen
 
 #### Programmierkenntnisse
+
 Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vorausgesetzt:
 * Arithmetische Operatoren (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 * Variablen
