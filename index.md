@@ -45,7 +45,7 @@ Nach einer Einführung in Arrays (Listen), werden verschiedene Such- und Sortier
 
 #### Programmierkenntnisse
 Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vorausgesetzt:
-
+* Arithmetische Operatoren (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 * Variablen
   *  Ein- und Ausgabe mit den Funktionen `input()` und `print()`
   *  Verändern von Variablen (`=`, `+=`, `-=`, `*=`, `/=`)
@@ -53,12 +53,12 @@ Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vora
   *  Strings (Zeichenketten)
   *  Integer (Ganzzahlen)
   *  Float (Fliesskommazahlen)
-  *  Booleans (Wahr/Falsch)
+  *  Booleans (Wahrheitswerte)
 * Kontrollstrukturen
   * Verzweigungen 
     * einseitig (`if`)
     * zweiseitig (`if` - `else`)
-    * mehrseitig (`if` - `elif` - `else`)
+    * mehrstufig (`if` - `elif` - `else`)
     * Logische Ausdrücke mittels relationaler (`>`, `<`, `==`, `!=`, `>=`, `<=`) und logischer (`and`, `or`, `not`) Operatoren
   * for-Schleifen
 * Funktionen
@@ -169,64 +169,5 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 
 </details>  
 
-------
-# Quiz
-
-<label for="cars">Choose a car:</label>
-
-<select id="cars">
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="mercedes">Mercedes</option>
-  <option value="audi">Audi</option>
-</select>
-
-
-What is your favorite primary color?<br>
-<input type="radio" name="fav_color" value="Red">Red<br>
-<input type="radio" name="fav_color" value="Blue" checked>Blue<br>
-<input type="radio" name="fav_color" value="Yellow">Yellow
-
-What pet(s) do you have?<br>
-<input type="checkbox" name="pets" value="Dog"> Dog<br>
-<input type="checkbox" name="pets" value="Cat"> Cat<br>
-<input type="checkbox" name="pets" value="Bird"> Bird<br>
-<input type="checkbox" name="pets" value="Mouse"> Mouse<br>
-<input type="checkbox" name="pets" value="Hamster"> Hamster<br>
-<input type="checkbox" name="pets" value="Alligator"> Alligator<br>
-<input type="checkbox" name="pets" value="Other"> Other<br>
-------
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/donze-informatik/suchen-und-ordnen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+### Lizenz
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://donze-informatikunterricht.github.io/suchen-und-ordnen/">Suchen und Ordnen</a> by <span property="cc:attributionName">Alessandra Donzé</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
