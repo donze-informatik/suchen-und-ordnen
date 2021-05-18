@@ -12,18 +12,22 @@ Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgor
   * Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
   * Einführung in Fehlermeldungen
   * Einführung in Algorithmen
+  * Material:  
+  Jupyter Notebook: Erste-Schritte.ipynb  
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Erste-Schritte.ipynb) [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
+    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Erste-Schritte-Loesungen.ipynb)
 * **Arrays** (in Python: Listen) als Sammelgefäss von Daten
   * Erstellen von Listen
   * Iteration über Listen
   * Zugriff auf Listenbereiche
   * Material:  
    Jupyter Notebook: Arrays.ipynb  
-    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Arrays.ipynb) [Lösungen](assets/notebooks/ArraysArraysArrays-loesungen.ipynb)
-    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays-loesungen.ipynb)
-    * Zusatzmaterial zu Zufallszahlen:  
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Arrays.ipynb) [Lösungen](assets/notebooks/Arrays-Loesungen.ipynb)
+    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays-Loesungen.ipynb)
+  * Zusatzmaterial zu Zufallszahlen:  
    Jupyter Notebook: Zufallszahlen.ipynb  
-    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Zufallszahlen.ipynb) [Lösungen](assets/notebooks/Zufallszahlen-loesungen.ipynb)
-    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Zufallszahlen.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen-loesungen.ipynb)
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Zufallszahlen.ipynb) [Lösungen](assets/notebooks/Zufallszahlen-Loesungen.ipynb)
+    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Zufallszahlen.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen-Loesungen.ipynb)
 * **Algorithmen zum Suchen und Ordnen**  
    Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen (keine deutschen Untertitel verfügbar).  
 [![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
@@ -34,11 +38,9 @@ Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgor
       * geordneten Liste
       * Material:  
       Jupyter Notebook: Suchen.ipynb  
-    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Suchen.ipynb) [Lösungen](assets/notebooks/Suchen-loesungen.ipynb)
-    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Suchen.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Suchen-loesungen.ipynb)
-    
-          * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Suchen.ipynb) [Lösungen](assets/notebooks/solutions/Suchen.ipynb)
-      * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Suchen.ipynb)
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Suchen.ipynb) [Lösungen](assets/notebooks/Suchen-Loesungen.ipynb)
+    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Suchen.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Suchen-Loesungen.ipynb)
+
   * **Sortieren** von Listen nach verschiedenen Algorithmen  
     Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen (deutsche Untertitel verfügbar).  
    [![Fastest Way to alphetize your Bookshelf](https://img.youtube.com/vi/WaNLJf8xzC4/0.jpg)](https://youtu.be/WaNLJf8xzC4)
@@ -46,21 +48,21 @@ Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgor
       * Einfügen eines Elements in eine Liste
       * Material:  
       Jupyter Notebook: Insertionsort.ipynb  
-    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Insertionsort.ipynb) [Lösungen](assets/notebooks/Insertionsort-loesungen.ipynb)
-    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Insertionsort.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Insertionsort-loesungen.ipynb)
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Insertionsort.ipynb) [Lösungen](assets/notebooks/Insertionsort-Loesungen.ipynb)
+    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Insertionsort.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Insertionsort-Loesungen.ipynb)
     * Selection Sort
       * Suche nach dem kleinsten bzw. grössten Element einer Liste
       * Material:  
       Jupyter Notebook: Selectionsort.ipynb  
-    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Selectionsort.ipynb) [Lösungen](assets/notebooks/Selectionsort-loesungen.ipynb)
-    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Selectionsort.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Selectionsort-loesungen.ipynb)
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Selectionsort.ipynb) [Lösungen](assets/notebooks/Selectionsort-Loesungen.ipynb)
+    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Selectionsort.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Selectionsort-Loesungen.ipynb)
     * Bubble Sort
       * Vertausch zweier Listenelemente
       * Sinn der Optimierung von Algorithmen
       * Material:  
       Jupyter Notebook: Bubblesort.ipynb  
-    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Bubblesort.ipynb) [Lösungen](assets/notebooks/Bubblesort-loesungen.ipynb)
-    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Bubblesort-loesungen.ipynb)
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/Bubblesort.ipynb) [Lösungen](assets/notebooks/Bubblesort-Loesungen.ipynb)
+    * Zur Bearbeitung auf  [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort.ipynb) [Lösungen][Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Bubblesort-Loesungen.ipynb)
     * Merge Sort
       * Zusammenfügen (Merge) zweier sortierter Listen
 
