@@ -1,89 +1,101 @@
-## Arrays (Listen) am Beispiel "Suchen und Ordnen"
+# Arrays (Listen) am Beispiel "Suchen und Ordnen"
 
 Hier lernen Sie, Daten strukturiert in Arrays (in Python: Listen) zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
 
-### Inhalt
+## Inhalt
 
 Nach einer Einführung in Jupyter Notebooks und Markdown anhand einer Auffrischung des vorausgesetzten Programmierwissens erfolgt eine  Einführung in Arrays (Listen).
 
 Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
 
-* Vorbereitende Inhalte
+* **Vorbereitende Inhalte**
   * Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
   * Einführung in Fehlermeldungen
   * Einführung in Algorithmen
-* Arrays (in Python: Listen) als Sammelgefäss von Daten
+* **Arrays** (in Python: Listen) als Sammelgefäss von Daten
   * Erstellen von Listen
   * Iteration über Listen
   * Zugriff auf Listenbereiche
   * Material:  
    Jupyter Notebook: Arrays.ipynb  
-    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Arrays.ipynb)
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/scripts/solutions/Arrays.ipynb) [Lösungen](assets/notebooks/solutions/Arrays.ipynb)
     * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays.ipynb)
     * Zusatzmaterial zu Zufallszahlen:  
    Jupyter Notebook: Zufallszahlen.ipynb  
-    * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Zufallszahlen.ipynb)
+    * Zur lokalen Bearbeitung: Download [Notebook](assets/scripts/solutions/Zufallszahlen.ipynb) [Lösungen](assets/notebooks/solutions/Zufallszahlen.ipynb)
     * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen.ipynb)
-* Algorithmen zum Suchen und Ordnen
+* **Algorithmen zum Suchen und Ordnen**  
+   Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen. Deutsche Untertitel sind nicht verfügbar.
 [![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
 
-  * Einführung ins Thema Suchen
+  * Einführung ins Thema **Suchen**
     * Suche nach einem Element in einer
       * ungeordneten Liste
       * geordneten Liste
       * Material:  
       Jupyter Notebook: Suchen.ipynb  
-      * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Suchen.ipynb)
+      * Zur lokalen Bearbeitung: Download [Notebook](assets/scripts/solutions/Suchen.ipynb) [Lösungen](assets/notebooks/solutions/Suchen.ipynb)
       * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Suchen.ipynb)
-  * Sortieren von Listen nach verschiedenen Algorithmen
+  * **Sortieren** von Listen nach verschiedenen Algorithmen  
+    Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen. Deutsche Untertitel sind verfügbar.
    [![Fastest Way to alphetize your Bookshelf](https://img.youtube.com/vi/WaNLJf8xzC4/0.jpg)](https://youtu.be/WaNLJf8xzC4)
-      * Insertion Sort
-         * Einfügen eines Elements in eine Liste
-      * Selection Sort
-         * Suche nach dem kleinsten bzw. grössten Element einer Liste
-      * Bubble Sort
-         * Vertausch zweier Listenelemente
-         * Sinn der Optimierung von Algorithmen
-         * Material:  
-         Jupyter Notebook: Bubblesort.ipynb  
-         * Zur lokalen Bearbeitung: Download [Notebook](assets/notebooks/solutions/Bubblesort.ipynb)
-         * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Bubblesort.ipynb)
+    * Insertion Sort
+      * Einfügen eines Elements in eine Liste
+      * Material:  
+      Jupyter Notebook: Insertionsort.ipynb  
+        * Zur lokalen Bearbeitung: Download [Notebook](assets/scripts/solutions/Insertionsort.ipynb) [Lösungen](assets/notebooks/solutions/Insertionsort.ipynb)
+        * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Insertionsort.ipynb)
+    * Selection Sort
+      * Suche nach dem kleinsten bzw. grössten Element einer Liste
+      * Material:  
+      Jupyter Notebook: Selectionsort.ipynb  
+        * Zur lokalen Bearbeitung: Download [Notebook](assets/scripts/solutions/Selectionsort.ipynb) [Lösungen](assets/notebooks/solutions/Selectionsort.ipynb)
+        * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Selectionsort.ipynb)
+    * Bubble Sort
+      * Vertausch zweier Listenelemente
+      * Sinn der Optimierung von Algorithmen
+      * Material:  
+      Jupyter Notebook: Bubblesort.ipynb  
+        * Zur lokalen Bearbeitung: Download [Notebook](assets/scripts/solutions/Bubblesort.ipynb) [Lösungen](assets/notebooks/solutions/Bubblesort.ipynb)
+        * Zur Bearbeitung auf [Google Colaboration](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Bubblesort.ipynb)
       * Merge Sort
-         * Zusammenfügen (Merge) zweier sortierter Listen 
+        * Zusammenfügen (Merge) zweier sortierter Listen 
 
-### Voraussetzungen
+## Voraussetzungen
 
-#### Programmierkenntnisse
+### Programmierkenntnisse
 
 Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vorausgesetzt:
+
 * Arithmetische Operatoren (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 * Variablen
-  *  Ein- und Ausgabe mit den Funktionen `input()` und `print()`
-  *  Verändern von Variablen (`=`, `+=`, `-=`, `*=`, `/=`)
+  * Ein- und Ausgabe mit den Funktionen `input()` und `print()`
+  * Verändern von Variablen (`=`, `+=`, `-=`, `*=`, `/=`)
 * Datentypen
-  *  Strings (Zeichenketten)
-  *  Integer (Ganzzahlen)
-  *  Float (Fliesskommazahlen)
-  *  Booleans (Wahrheitswerte)
+  * Strings (Zeichenketten)
+  * Integer (Ganzzahlen)
+  * Float (Fliesskommazahlen)
+  * Booleans (Wahrheitswerte)
 * Kontrollstrukturen
   * Verzweigungen 
     * einseitig (`if`)
     * zweiseitig (`if` - `else`)
     * mehrstufig (`if` - `elif` - `else`)
     * Logische Ausdrücke mittels relationaler (`>`, `<`, `==`, `!=`, `>=`, `<=`) und logischer (`and`, `or`, `not`) Operatoren
-  * for-Schleifen
+  * Schleifen
+    * zählergesteuert (`for`-Schleifen)
+    * kopfgesteuert (`while`-chleifen)
 * Funktionen
 
-#### Tools
+### Tools
 
 Dieser Kurs verwendet Jupyter Notebooks. Sie können sich diese als interaktive Notizbücher vorstellen, die im Web Browser laufen. Sie machen es möglich, Dokumentation und ausführbaren Code zu verbinden. Falls Sie mehr dazu wissen möchten, ist der Wikipedia-Artikel eine empfehlenswerte Quelle.
-
 
 Sie können diese lokal auf Ihrem Gerät oder online auf Google Colaboration (dafür ist ein Google-Account nötig) nutzen. Die Jupyter Notebooks werden im Web Browser dargestellt. Sie benötigen also auch einen Web Browser wie Chrome, Safari, Firefox, etc.
 
 Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch nicht installiert haben, geht dies am einfachsten über Anaconda.
 
-##### Installation von Anaconda
+#### Installation von Anaconda
 
 <details>
 <summary>1. Anaconda herunterladen</summary>
@@ -182,4 +194,4 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
 
 ### Lizenz
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://donze-informatikunterricht.github.io/suchen-und-ordnen/">Suchen und Ordnen</a> by <span property="cc:attributionName">Alessandra Donzé</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+<a property="dct:title" rel="cc:attributionURL" href="https://donze-informatikunterricht.github.io/suchen-und-ordnen/">Suchen und Ordnen</a> by <span property="cc:attributionName">Alessandra Donzé</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a>
