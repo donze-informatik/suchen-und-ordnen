@@ -61,26 +61,31 @@ Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (
 Als Einführung ins Sortieren von Listen mit Hilfe verschiedener bekannter Sortieralgorithmen können Sie sich den folgenden Clip auf YouTube ansehen (deutsche Untertitel verfügbar).
 [![Fastest Way to alphetize your Bookshelf](https://img.youtube.com/vi/WaNLJf8xzC4/0.jpg)](https://youtu.be/WaNLJf8xzC4)
 
-* Insertion Sort
-  * Einfügen eines Elements in eine Liste
-  * Material:  
-    Jupyter Notebook: Insertionsort.ipynb  
-    * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Insertionsort.ipynb) [Lösungen](assets/notebooks/Insertionsort-Loesungen.ipynb)
-    * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Insertionsort.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Insertionsort-Loesungen.ipynb)
-* Selection Sort
-  * Suche nach dem kleinsten bzw. grössten Element einer Liste
-  * Material:  
-    Jupyter Notebook: Selectionsort.ipynb  
-    * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Selectionsort.ipynb) [Lösungen](assets/notebooks/Selectionsort-Loesungen.ipynb)
-    * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Selectionsort.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Selectionsort-Loesungen.ipynb)
-* Bubble Sort
-  * Vertausch zweier Listenelemente
-  * Sinn der Optimierung von Algorithmen
-  * Material:  
-    Jupyter Notebook: Bubblesort.ipynb  
-      * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Bubblesort.ipynb) [Lösungen](assets/notebooks/Bubblesort-Loesungen.ipynb)
-      * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Bubblesort-Loesungen.ipynb)
-* Merge Sort
+##### Insertion Sort
+  
+* Einfügen eines Elements in eine Liste
+* Material:  
+  Jupyter Notebook: Insertionsort.ipynb  
+  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Insertionsort.ipynb) [Lösungen](assets/notebooks/Insertionsort-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Insertionsort.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Insertionsort-Loesungen.ipynb)
+
+##### Selection Sort
+
+* Suche nach dem kleinsten bzw. grössten Element einer Liste
+* Material:  
+   Jupyter Notebook: Selectionsort.ipynb  
+   * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Selectionsort.ipynb) [Lösungen](assets/notebooks/Selectionsort-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Selectionsort.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Selectionsort-Loesungen.ipynb)
+
+##### Bubble Sort
+
+* Vertausch zweier Listenelemente
+* Sinn der Optimierung von Algorithmen
+* Material:  
+  Jupyter Notebook: Bubblesort.ipynb  
+  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Bubblesort.ipynb) [Lösungen](assets/notebooks/Bubblesort-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Bubblesort-Loesungen.ipynb)
+##### Merge Sort
   * Zusammenfügen (Merge) zweier sortierter Listen
 
 ## Voraussetzungen
