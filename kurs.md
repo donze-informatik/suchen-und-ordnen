@@ -1,3 +1,5 @@
+[Home](./index.md) | [Installation](./installation_anaconda.md) | [Einbettung](./einbettung.md)
+
 # Lerninhalte
 
 Hier finden Sie alle Lerninhalte. Sie können chronologisch durchgehen oder einzelne Themen herauspicken und unabhängig voneinander vertiefen.

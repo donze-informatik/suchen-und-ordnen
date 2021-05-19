@@ -1,3 +1,5 @@
+[Lerninhalte](./kurs.md) | [Home](./index.md) | [Einbettung](./einbettung.md)
+
 # Installation von Anaconda
 
 ## Anaconda herunterladen
