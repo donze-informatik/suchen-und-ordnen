@@ -2,43 +2,50 @@
 
 Hier lernen Sie, Daten strukturiert in Arrays (in Python: Listen) zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
 
-## Inhalt
-
-Nach einer Einführung in Jupyter Notebooks und Markdown anhand einer Auffrischung des vorausgesetzten Programmierwissens erfolgt eine  Einführung in Arrays (Listen).
+Nach einer **Einführung** in Jupyter Notebooks und Markdown anhand einer **Auffrischung des vorausgesetzten Programmierwissens** erfolgt eine Einführung in **Arrays** (Listen).
 
 Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
+
+Wie Sie ahnen, arbeitet dieser Kurs mit Python. Die algorithmischen Inhalte lassen sich auf andere Sprachen übertragen, ebenso die Programmierkonzepte. Gewisse pythonspezifische Inhalte werden nicht eins zu eins umsetzbar sein.
 
 **Hinweis falls Sie lokal auf Ihrem Rechner arbeiten**  
 Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein wie die Jupyter Notebooks (.ipynb-Dateien). Am einfachsten laden Sie die Bilder gleich alle als Zip herunter: [bilder.zip](assets/bilder.zip) und entpacken es gleich. Oder Sie laden gleich alles herunter, alle Notebools und alle Bilder: [notebooks.zip](assets/notebooks.zip)
 
-* **Vorbereitende Inhalte**
-  * Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
-  * Einführung in Fehlermeldungen
-  * Material:  
+## Inhalt
+
+1. **Vorbereitende Inhalte**
+
+* Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
+* Einführung in Fehlermeldungen
+* Material:  
   Jupyter Notebook: Erste-Schritte.ipynb  
-    * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Erste-Schritte.ipynb) [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
-    * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Erste-Schritte-Loesungen.ipynb)
-* **Arrays** (in Python: Listen) als Sammelgefäss von Daten
-  * Erstellen von Listen
-  * Iteration über Listen
-  * Zugriff auf Listenbereiche
-  * Material:  
+  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Erste-Schritte.ipynb) [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Erste-Schritte-Loesungen.ipynb)
+
+2. **Arrays** (in Python: Listen) als Sammelgefäss von Daten
+
+* Erstellen von Listen
+* Iteration über Listen
+* Zugriff auf Listenbereiche
+* Material:  
    Jupyter Notebook: Arrays.ipynb  
-    * Zur lokalen Bearbeitung (Download) [Notebook](assets/notebooks/Arrays.ipynb) [Lösungen](assets/notebooks/Arrays-Loesungen.ipynb)
-    * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download) [Notebook](assets/notebooks/Arrays.ipynb) [Lösungen](assets/notebooks/Arrays-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Arrays-Loesungen.ipynb)
   * Zusatzmaterial zu Zufallszahlen:  
    Jupyter Notebook: Zufallszahlen.ipynb  
     * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Zufallszahlen.ipynb) [Lösungen](assets/notebooks/Zufallszahlen-Loesungen.ipynb)
     * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Zufallszahlen.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Zufallszahlen-Loesungen.ipynb)
-* **Algorithmen zum Suchen und Ordnen**  
-  * Einführung in Algorithmen
-       Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (keine deutschen Untertitel verfügbar) zeigt auf, worauf Sie achten müssen, wenn Sie Algorithmen beschreiben.  
+
+3. **Algorithmen zum Suchen und Ordnen**
+
+* Einführung in Algorithmen  
+  Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (keine deutschen Untertitel verfügbar) zeigt auf, worauf Sie achten müssen, wenn Sie Algorithmen beschreiben.  
        [![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
 
-    * Material:  
+  * Material:  
       Jupyter Notebook: Algorithmen.ipynb  
-    * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Algorithmen.ipynb) [Lösungen](assets/notebooks/Algorithmen-Loesungen.ipynb)
-    * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Algorithmen.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Algorithmen-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Algorithmen.ipynb) [Lösungen](assets/notebooks/Algorithmen-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Algorithmen.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Algorithmen-Loesungen.ipynb)
 
   * Einführung ins Thema **Suchen**
     * Suche nach einem Element in einer
@@ -49,7 +56,8 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
     * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Suchen.ipynb) [Lösungen](assets/notebooks/Suchen-Loesungen.ipynb)
     * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Suchen.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Suchen-Loesungen.ipynb)
 
-  * **Sortieren** von Listen nach verschiedenen Algorithmen  
+4. **Sortieren** von Listen mit Hilfe verschiedener bekannter Sortieralgorithmen
+
     Als Einführung können Sie sich den folgenden Clip auf YouTube ansehen (deutsche Untertitel verfügbar).  
    [![Fastest Way to alphetize your Bookshelf](https://img.youtube.com/vi/WaNLJf8xzC4/0.jpg)](https://youtu.be/WaNLJf8xzC4)
     * Insertion Sort
@@ -78,7 +86,7 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
 
 ### Programmierkenntnisse
 
-Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vorausgesetzt:
+Dieser Kurs nutzt die Programmiersprache **Python** und setzt die folgenden Kenntnisse voraus:
 
 * Arithmetische Operatoren (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 * Variablen
@@ -90,7 +98,7 @@ Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vora
   * Float (Fliesskommazahlen)
   * Booleans (Wahrheitswerte)
 * Kontrollstrukturen
-  * Verzweigungen 
+  * Verzweigungen
     * einseitig (`if`)
     * zweiseitig (`if` - `else`)
     * mehrstufig (`if` - `elif` - `else`)
@@ -102,11 +110,11 @@ Dieser Kurs nutzt die Programmiersprache Python. Folgende Kenntnisse werden vora
     * kopfgesteuert (`while`-chleifen)
 * Funktionen
 
-### Tools
+### Hilfsmittel (Tools)
 
-Dieser Kurs verwendet Jupyter Notebooks. Sie können sich diese als interaktive Notizbücher vorstellen, die im Web Browser laufen. Sie machen es möglich, Dokumentation und ausführbaren Code zu verbinden. Falls Sie mehr dazu wissen möchten, ist der Wikipedia-Artikel eine empfehlenswerte Quelle.
+Dieser Kurs verwendet **Jupyter Notebooks**. Sie können sich diese als interaktive Notizbücher vorstellen, die im Web Browser laufen. Sie machen es möglich, Dokumentation und ausführbaren Code zu verbinden. Falls Sie mehr dazu wissen möchten, ist der [Wikipedia-Artikel zum Jupyter-Projekt](https://de.wikipedia.org/wiki/Project_Jupyter) eine empfehlenswerte Quelle.
 
-Sie können diese lokal auf Ihrem Gerät oder online auf Google Colaboration (dafür ist ein Google-Account nötig) nutzen. Die Jupyter Notebooks werden im Web Browser dargestellt. Sie benötigen also auch einen Web Browser wie Chrome, Safari, Firefox, etc.
+Sie können die Jupyter Notebooks lokal auf Ihrem Gerät oder online auf Google Colaboration nutzen, brauchen für letzteres allerdings einen Google-Account. Die Jupyter Notebooks werden im Web Browser dargestellt. Sie benötigen also auch einen Web Browser wie Chrome, Safari, Firefox, etc.
 
 Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch nicht installiert haben, geht dies am einfachsten über Anaconda.
 
@@ -147,7 +155,6 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
    </ul>
 </details>
 
-
 <details>
    <summary>3. Jupyter Notebook öffnen</summary>
    Es gibt verschiedene Möglichkeiten, wie Sie Jupyter Notebook starten können.
@@ -165,7 +172,7 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
       </li>
       <li>Im <strong>Anaconda Navigator</strong> finden Sie Jupyter und andere Tools.<br/>
          <img src="assets/images/anaconda-navigator.png" alt="anaconda-navigator"/>
-         <ul>   
+         <ul>
             <li>Starten Sie Jupyter über den Button "Launch".</li>
             <li>In Ihrem Standard-Web-Browser sollte sich nun Jupyter öffnen.</li>
          </ul>
@@ -175,7 +182,6 @@ Falls Sie auf Ihrem eigenen Gerät arbeiten möchten und Jupyter Notebooks noch 
       <img src="assets/images/launch-jupyter.png" alt="launch-jupyter" width="30%"/></li>
    </ul>
 </details>
-
 
 <details>
    <summary>4. Möglichkeiten, das Jupyter Notebook im gewünschten Verzeichnis öffnen</summary>
