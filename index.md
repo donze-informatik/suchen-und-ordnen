@@ -85,8 +85,10 @@ Als Einführung ins Sortieren von Listen mit Hilfe verschiedener bekannter Sorti
   Jupyter Notebook: Bubblesort.ipynb  
   * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Bubblesort.ipynb) [Lösungen](assets/notebooks/Bubblesort-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Bubblesort-Loesungen.ipynb)
+
 ##### Merge Sort
-  * Zusammenfügen (Merge) zweier sortierter Listen
+
+* Zusammenfügen (Merge) zweier sortierter Listen
 
 ## Voraussetzungen
 
