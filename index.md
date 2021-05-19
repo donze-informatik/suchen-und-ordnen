@@ -1,3 +1,5 @@
+[Lerninhalte](./kurs.md) | [Installation](./installation_anaconda.md) | [Voraussetzungen](./voraussetzungen.md)
+
 # Arrays (Listen) am Beispiel "Suchen und Ordnen"
 
 Hier lernen Sie, Daten strukturiert in Arrays (in Python: Listen) zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
