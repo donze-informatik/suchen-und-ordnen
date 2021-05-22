@@ -47,7 +47,7 @@ Es gibt verschiedene Möglichkeiten, wie Sie Jupyter Notebook starten können.
           Der Webbrowser wird sich selbst öffnen.
             <img src="assets/images/launch-jupyter.png" alt="launch-jupyter" width="30%"/>
 
-## Möglichkeiten, das Jupyter Notebook im gewünschten Verzeichnis öffnen
+## Möglichkeiten, das Jupyter Notebook im gewünschten Verzeichnis zu öffnen
 
 Sie haben die Möglichkeit, Ihr Jupyter Notebook direkt im Verzeichnis Ihrer Wahl zu öffnen.
 * **Mac**:

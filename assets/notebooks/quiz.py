@@ -63,6 +63,32 @@ def create_multipleChoice_widget(description, options, correct_answer):
 ## Listen
 
 #for i in range(10)
+
+Q1_erste_schritte = create_multipleChoice_widget('Welchen Datentyp haben die Variablen a und b?',
+                                         ['Boolean',
+                                          'String',
+                                          'Integer',
+                                          'Float'],
+                                         'Integer')
+Q2_erste_schritte = create_multipleChoice_widget('Was gibt das Programm zurück?',
+                                         ['27',
+                                          '28',
+                                          '29',
+                                          '30'],
+                                         '28')
+Q3_erste_schritte = create_multipleChoice_widget('Wie oft wird die Schleife ausgeführt?',
+                                         ['gar nie',
+                                          'fünfmal',
+                                          'zehnmal',
+                                          'vierundzwanzigmal'],
+                                         'fünfmal')
+
+Q4_erste_schritte = create_multipleChoice_widget('Was würde das Programm ausgeben, wenn Wenn in Zeile 5 ein > wäre anstelle des <= ?',
+                                         ['0',
+                                          '10',
+                                          '28',
+                                          '24'],
+                                         '0')
 Q1_arrays = create_multipleChoice_widget('Welche Werte nimmt die Laufvariable i im folgenden Loop an? for i in range(10):',
                                          ['von 0 bis und mit 10',
                                           'von 1 bis und mit 10',
