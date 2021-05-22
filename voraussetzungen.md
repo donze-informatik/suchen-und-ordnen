@@ -8,7 +8,7 @@ Dieser Kurs nutzt die Programmiersprache **Python** und setzt die folgenden Kenn
 
 Ihre Programmierkenntnisse können Sie im ersten Teil des [Kurses](./kurs.md) unter Erste Schritte auffrischen.
 
-Zudem steht Ihnen ein [[Python-Cheatsheet (PDF)](./notebooks/downloads/cheatsheet.pdf) zur Verfügung.
+Zudem steht Ihnen ein [[Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
 * Arithmetische Operatoren (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 * Variablen
