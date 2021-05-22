@@ -1,4 +1,4 @@
-[Lerninhalte](./kurs.md) | [Installation, Setup](./installation_anaconda.md) | [Voraussetzungen](./voraussetzungen.md)
+[Lernmaterialien](./kurs.md) | [Installation, Setup](./installation_anaconda.md) | [Voraussetzungen](./voraussetzungen.md)
 
 # Arrays (Listen) am Beispiel "Suchen und Ordnen"
 

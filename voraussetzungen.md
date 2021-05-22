@@ -1,4 +1,4 @@
-[Lerninhalte](./kurs.md) | [Installation, Setup](./installation_anaconda.md) | [Home](./index.md)
+[Lernmaterialien](./kurs.md) | [Installation, Setup](./installation_anaconda.md) | [Home](./index.md)
 
 ## Voraussetzungen
 

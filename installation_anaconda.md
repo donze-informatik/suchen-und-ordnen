@@ -1,4 +1,4 @@
-[Lerninhalte](./kurs.md) | [Home](./index.md) | [Voraussetzungen](./voraussetzungen.md)
+[Lernmaterialien](./kurs.md) | [Home](./index.md) | [Voraussetzungen](./voraussetzungen.md)
 
 # Installation von Anaconda
 
