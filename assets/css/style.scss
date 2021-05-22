@@ -35,8 +35,9 @@
         --border-blue: #007faa;
         --purple: #dcc6e0;
         --block-bg: #2b2b2b;
-        --block-fg: #dcdee0;/*606c71*/
-        --code-bg: /*#606c71;*/#555555;
+        --block-fg: #dcdee0;
+        --code-fg: #dcdee0;
+        --code-bg: #555555;
         --main-title: #000000;
     }
 }
@@ -66,6 +67,10 @@ td a {
 }
 
 h1.project-name {
+    color: var(--main-title);
+}
+
+.btn {
     color: var(--main-title);
 }
 
