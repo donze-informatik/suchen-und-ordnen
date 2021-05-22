@@ -6,7 +6,7 @@ Hier finden Sie alle Lerninhalte. Sie können chronologisch durchgehen oder einz
 
 Dieser Kurs erfordert Grundkenntnisse im Programmieren. Sie können diese wenn nötig im ersten Teil unter Vorbereitende Inhalte auffrischen. Kenntnisse über Arrays (in Python: Listen) sind nicht vorausgesetzt. Diese werden Sie mit diesem Kurs erarbeiten und vertiefen. Falls Sie nur an den Algorithmen interessiert sind, können Sie die einzelnen Algorithmen auch unabhängig voneinander bearbeiten.
 
-Zudem steht Ihnen ein [[Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
+Zudem steht Ihnen ein [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
 
 **Hinweis falls Sie lokal auf Ihrem Rechner arbeiten**  
