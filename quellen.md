@@ -1,16 +1,16 @@
-[Startseite][Lerninhalte](./index.md) | (./kurs.md) | [Installation, Setup](./installation_anaconda.md) | [Voraussetzungen](./voraussetzungen.md)
+[Startseite](./index.md) | [Lerninhalte](./kurs.md) | [Installation, Setup](./installation_anaconda.md) | [Voraussetzungen](./voraussetzungen.md)
 
 # Quellen
 
 ## Bücher
 
-* Fässler, L., Sichau, D. (20???????) [Begleitbuch zum E.Tutorial: Programmiergrundlagen Python (ausführlicher Kurs)](https://et.lecturers.inf.ethz.ch/viewer/course/b6wSvFsS8ydmuZ7R2?course_locale_key=de)
+* Fässler, L., Sichau, D. (2020) [Begleitbuch zum E.Tutorial: Programmiergrundlagen Python (ausführlicher Kurs)](https://et.lecturers.inf.ethz.ch/viewer/course/b6wSvFsS8ydmuZ7R2?course_locale_key=de)
 
 ## Elektronische Quellen
 
 * [CS Unplugged1](https://classic.csunplugged.org/sorting-algorithms/)
 * [CS Unplugged2](https://classic.csunplugged.org/wp-content/uploads/)
-* Fässler, L., Sichau, D. (20???????) [E.Tutorial: Programmiergrundlagen Python (ausführlicher Kurs)](https://et.lecturers.inf.ethz.ch/viewer/course/b6wSvFsS8ydmuZ7R2?course_locale_key=de)
+* Fässler, L., Sichau, D. (2020) [E.Tutorial: Programmiergrundlagen Python (ausführlicher Kurs)](https://et.lecturers.inf.ethz.ch/viewer/course/b6wSvFsS8ydmuZ7R2?course_locale_key=de)
 * [Referenz Python](https://docs.python.org/3/)
 * [Referenz Matlpotlib](https://matplotlib.org)
 * [Referenz NumPy](https://numpy.org/doc/stable/)
