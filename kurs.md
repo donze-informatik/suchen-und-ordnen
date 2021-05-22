@@ -16,7 +16,7 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
   * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Erste-Schritte.ipynb) [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte-Loesungen.ipynb)
   
-  [Python-Cheatsheet (PDF)](./downloads/cheatsheet.pdf): In der Physik haben Sie eine Formelsammlung.  
+  [Python-Cheatsheet (PDF)](./notebooks/downloads/cheatsheet.pdf): In der Physik haben Sie eine Formelsammlung.  
   Das Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug zu generellen Konzepten.
 
 ## Arrays (in Python: Listen) als Sammelgefäss für Daten
