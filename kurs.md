@@ -1,11 +1,11 @@
-[Home](./index.md) | [Installation](./installation_anaconda.md) | [Einbettung](./einbettung.md)
+[Home](./index.md) | [Installation, Setup](./installation_anaconda.md) | [Voraussetzungen](./voraussetzungen.md)
 
 # Lerninhalte
 
 Hier finden Sie alle Lerninhalte. Sie können chronologisch durchgehen oder einzelne Themen herauspicken und unabhängig voneinander vertiefen.
 
 **Hinweis falls Sie lokal auf Ihrem Rechner arbeiten**  
-Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein wie die Jupyter Notebooks (.ipynb-Dateien). Am einfachsten laden Sie die Bilder gleich alle als Zip herunter: [bilder.zip](assets/bilder.zip) und entpacken es gleich. Oder Sie laden gleich alles herunter, alle Notebools und alle Bilder: [notebooks.zip](assets/notebooks.zip)
+Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein wie die Jupyter Notebooks (.ipynb-Dateien). Am einfachsten laden Sie die Bilder gleich alle als Zip herunter: [bilder.zip](assets/bilder.zip) und entpacken es gleich. Oder Sie laden gleich alles herunter, alle Notebools und alle Bilder: [suchen-und-ordnen.zip](assets/suchen-und-ordnen.zip)
 
 ## Vorbereitende Inhalte
 
@@ -15,6 +15,9 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
   Jupyter Notebook: Erste-Schritte.ipynb  
   * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Erste-Schritte.ipynb) [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/solutions/Erste-Schritte-Loesungen.ipynb)
+  
+  [Python-Cheatsheet (PDF)](./downloads/cheatsheet.pdf): In der Physik haben Sie eine Formelsammlung.  
+  Das Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug zu generellen Konzepten.
 
 ## Arrays (in Python: Listen) als Sammelgefäss für Daten
 
