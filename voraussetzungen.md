@@ -2,13 +2,14 @@
 
 ## Voraussetzungen
 
+Dieser Kurs erfordert Grundkenntnisse im Programmieren. Sie können diese wenn nötig im ersten Teil des [Kurses](./kurs.md) unter Erste Schritte auffrischen. Kenntnisse über Arrays (in Python: Listen) sind nicht vorausgesetzt. Diese werden Sie mit diesem Kurs erarbeiten und vertiefen. Falls Sie nur an den Algorithmen interessiert sind, können Sie die einzelnen Algorithmen auch unabhängig voneinander bearbeiten.
+
+Zudem steht Ihnen ein [[Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
+
+
 ### Programmierkenntnisse
 
 Dieser Kurs nutzt die Programmiersprache **Python** und setzt die folgenden Kenntnisse voraus:
-
-Ihre Programmierkenntnisse können Sie im ersten Teil des [Kurses](./kurs.md) unter Erste Schritte auffrischen.
-
-Zudem steht Ihnen ein [[Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
 * Arithmetische Operatoren (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 * Variablen

@@ -4,6 +4,11 @@
 
 Hier finden Sie alle Lerninhalte. Sie können chronologisch durchgehen oder einzelne Themen herauspicken und unabhängig voneinander vertiefen.
 
+Dieser Kurs erfordert Grundkenntnisse im Programmieren. Sie können diese wenn nötig im ersten Teil unter Vorbereitende Inhalte auffrischen. Kenntnisse über Arrays (in Python: Listen) sind nicht vorausgesetzt. Diese werden Sie mit diesem Kurs erarbeiten und vertiefen. Falls Sie nur an den Algorithmen interessiert sind, können Sie die einzelnen Algorithmen auch unabhängig voneinander bearbeiten.
+
+Zudem steht Ihnen ein [[Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
+
+
 **Hinweis falls Sie lokal auf Ihrem Rechner arbeiten**  
 Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein wie die Jupyter Notebooks (.ipynb-Dateien). Am einfachsten laden Sie die Bilder gleich alle als Zip herunter: [bilder.zip](assets/bilder.zip) und entpacken es gleich. Oder Sie laden gleich alles herunter, alle Notebools und alle Bilder: [suchen-und-ordnen.zip](assets/suchen-und-ordnen.zip)
 
@@ -17,7 +22,7 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte-Loesungen.ipynb)
   
   [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf): In der Physik haben Sie eine Formelsammlung.  
-  Das Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug zu generellen Konzepten.
+  Das Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug zu generellen Programmierkonzepten.
 
 ## Arrays (in Python: Listen) als Sammelgefäss für Daten
 
