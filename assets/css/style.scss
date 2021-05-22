@@ -3,6 +3,48 @@
 
 @import "{{ site.theme }}";
 
+#body color: #606c71
+
+:root {
+    --text: #606c71
+
+    --comment: #696969;
+    --red: #d91e18;
+    --orange: #aa5d00;
+    --yellow: #aa5d00;
+    --green: #008000;
+    --blue: #007faa;
+    --purple: #7928a1;
+    --block-bg: #fefefe;
+    --block-fg: #606c71;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #606c71
+
+        --comment: #d4d0ab;
+        --red: #ffa07a;
+        --orange: #f5ab35;
+        --yellow: #ffd700;
+        --green: #abe338;
+        --blue: #00e0e0;
+        --purple: #dcc6e0;
+        --block-bg: #2b2b2b;
+        --block-fg: #f8f8f2;
+    }
+}
+/* Comment * /
+.hljs-comment,
+.hljs-quote {
+  color: var(--comment);
+}
+*/
+body {
+    color: var(--block-fg);
+    background-color: var(--block-bg);
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: #164F86;
 }

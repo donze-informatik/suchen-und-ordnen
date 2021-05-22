@@ -6,7 +6,6 @@ Dieser Kurs erfordert Grundkenntnisse im Programmieren. Sie können diese wenn n
 
 Zudem steht Ihnen ein [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
-
 ### Programmierkenntnisse
 
 Dieser Kurs nutzt die Programmiersprache **Python** und setzt die folgenden Kenntnisse voraus:
