@@ -83,7 +83,7 @@ Q3_erste_schritte = create_multipleChoice_widget('Wie oft wird die Schleife ausg
                                           'vierundzwanzigmal'],
                                          'fünfmal')
 
-Q4_erste_schritte = create_multipleChoice_widget('Was würde das Programm ausgeben, wenn Wenn in Zeile 5 ein > wäre anstelle des <= ?',
+Q4_erste_schritte = create_multipleChoice_widget('Was würde das Programm ausgeben, wenn in Zeile 5 ein > wäre anstelle des <= ?',
                                          ['0',
                                           '10',
                                           '28',
