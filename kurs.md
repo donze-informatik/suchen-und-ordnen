@@ -33,10 +33,6 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
    Jupyter Notebook: Arrays.ipynb  
   * Zur lokalen Bearbeitung (Download) [Notebook](assets/notebooks/Arrays.ipynb) [Lösungen](assets/notebooks/Arrays-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays-Loesungen.ipynb)
-* Zusatzmaterial zu Zufallszahlen:  
-   Jupyter Notebook: Zufallszahlen.ipynb  
-   * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Zufallszahlen.ipynb) [Lösungen](assets/notebooks/Zufallszahlen-Loesungen.ipynb)
-   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Zufallszahlen.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Zufallszahlen-Loesungen.ipynb)
 
 ## Algorithmen
 
@@ -47,7 +43,18 @@ Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (
   Jupyter Notebook: Algorithmen.ipynb  
   * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Algorithmen.ipynb)
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Algorithmen.ipynb)
-  * Keine Lösungen, da dieses Notebook eher 
+  * Keine Lösungen, da dieses Notebook keine Programmieraufgaben enthält.
+
+* Zusatzmaterial:  
+  Vorbereitungen zur Evaluation von Such- und Sortieralgorithmen
+  * Erstellung geeigneter Liste für die Laufzeitanalyse von Such- und Sortieralgorithmen
+  * Zeitmessungen
+  * "Zufallszahlen"
+  * Einführung in Fehlermeldungen
+  * Material
+      Jupyter Notebook: Vorbereitungen.ipynb  
+    * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Vorbereitungen.ipynb) [Lösungen](assets/notebooks/Vorbereitungen-Loesungen.ipynb)
+    * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen.ipynb) [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen-Loesungen.ipynb)
 
 ### Suchen
 
