@@ -1,0 +1,11 @@
+$ cat .gitignore
+
+index copy.md
+
+notebooks_ALT/
+
+.DS_Store
+assets/.DS_Store
+assets/notebooks/.DS_Store
+
+assets/notebooks/downloads/cheatsheet.key
