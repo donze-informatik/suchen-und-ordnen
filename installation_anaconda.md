@@ -6,8 +6,8 @@
 
 Gehen Sie auf die Seite von [Anaconda](https://www.anaconda.com/products/individual), um Anaconda herunterzuladen.
 
-* Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.
-  --> Sie müssen sich **nirgendwo registrieren**.
+* Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.  
+  *Sie müssen sich **nirgendwo registrieren***.
 * Ein Klick auf den Button "Download" unter dem obersten Abschnitt scrollt die Seite an den richtigen Ort.
 * Wählen Sie das Download-File, das zu Ihrer Umgebung passt.
   * Für den **Mac** empfiehlt sich der graphische Installer.
