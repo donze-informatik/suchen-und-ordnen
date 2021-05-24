@@ -66,7 +66,7 @@ Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (
 
 ### Sortieren
 
-Als Einführung ins Sortieren von Listen mit Hilfe verschiedener bekannter Sortieralgorithmen können Sie sich den folgenden Clip auf YouTube ansehen (deutsche Untertitel verfügbar).
+Als Einführung ins Sortieren von Listen mit Hilfe verschiedener bekannter Sortieralgorithmen können Sie sich den folgenden Clip von TED-Ed auf YouTube ansehen (deutsche Untertitel verfügbar).
 [![Fastest Way to alphetize your Bookshelf](https://img.youtube.com/vi/WaNLJf8xzC4/0.jpg)](https://youtu.be/WaNLJf8xzC4)
 
 #### Insertion Sort
