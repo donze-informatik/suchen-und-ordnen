@@ -15,8 +15,7 @@
  [E.Tutorial der ETH Zürich: Programmiergrundlagen Python (ausführlicher Kurs)](https://et.lecturers.inf.ethz.ch/viewer/course/b6wSvFsS8ydmuZ7R2?course_locale_key=de)
 * Onlinereferenzen:
   * [Referenz Python](https://docs.python.org/3/)
-  * [Referenz Matpl
-otlib](https://matplotlib.org)
+  * [Referenz Matplotlib](https://matplotlib.org)
   * [Referenz NumPy](https://numpy.org/doc/stable/)
 
 * Wikipedia: [Ada Lovelace](https://de.wikipedia.org/wiki/Ada_Lovelace)
