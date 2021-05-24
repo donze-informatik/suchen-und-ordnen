@@ -41,7 +41,7 @@ Sie benötigen Folgendes:
 * lokal und online:
   * einen **modernen Web-Browser**  
   Chrome, Safari, Firefox  
-  Edge: den *neuen, Chromium-basierten* Edge. Er ist in Windows noch nicht Standard und muss explizit installiert werden. Um herauszufinden, welchen Edge Sie haben, öffnen Sie Edge. Im [...]-Menü > Hilfe und Feedback > Infos zu Microsoft Edge sehen Sie, wenn Sie einen Chromium-basierten* Edge haben:  
+  Edge: den *neuen, Chromium-basierten* Edge. Er ist in Windows noch nicht Standard und muss explizit installiert werden. Um herauszufinden, welchen Edge Sie haben, öffnen Sie Edge. Im [...]-Menü > Hilfe und Feedback > Infos zu Microsoft Edge sehen Sie, wenn Sie einen Chromium-basierten Edge verwenden:  
   | <img src="assets/images/Edge-version-abfragen1.png" alt="edge-version1" width="40%"/> |  <img src="assets/images/Edge-version-abfragen2.png" alt="edge-version1" width="40%"/>|
 
 **Zur *lokalen Verwendung* benötigen Sie**:
