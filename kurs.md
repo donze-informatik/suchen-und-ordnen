@@ -8,7 +8,6 @@ Dieser Kurs erfordert Grundkenntnisse im Programmieren. Sie können diese wenn n
 
 Zudem steht Ihnen ein [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
-
 **Hinweis falls Sie lokal auf Ihrem Rechner arbeiten**  
 Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein wie die Jupyter Notebooks (.ipynb-Dateien). Am einfachsten laden Sie die Bilder gleich alle als Zip herunter: [bilder.zip](assets/bilder.zip) und entpacken es gleich. Oder Sie laden gleich alles herunter, alle Notebools und alle Bilder: [suchen-und-ordnen.zip](assets/suchen-und-ordnen.zip)
 
@@ -50,7 +49,6 @@ Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (
   * Erstellung geeigneter Liste für die Laufzeitanalyse von Such- und Sortieralgorithmen
   * Zeitmessungen
   * "Zufallszahlen"
-  * Einführung in Fehlermeldungen
   * Material
       Jupyter Notebook: Vorbereitungen.ipynb  
     * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](assets/notebooks/Vorbereitungen-Loesungen.ipynb)
