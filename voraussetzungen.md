@@ -43,12 +43,14 @@ Sie benötigen Folgendes:
   Edge: den *neuen, Chromium-basierten* Edge. Er ist in Windows noch nicht Standard und muss explizit installiert werden. Um herauszufinden, welchen Edge Sie haben, öffnen Sie Edge. Im [...]-Menü > Hilfe und Feedback > Infos zu Microsoft Edge sehen Sie, 
 
 **Zur *lokalen Verwendung* benötigen Sie**:
+
 * Jupyter Notebooks (am einfachsten zu installieren über Anaconda, [Installationsanleitung](./installation_anaconda.md)
 * beachten Sie, dass Sie in Ihrem Arbeitsverzeichnis die Notebookdateien (.ipynb) und ein Verzeichnis `bilder` haben sollten, das die Bilder enthält.  
   Am einfachsten laden Sie gleich [hier](./suchen-und-ordnen.zip) alle benötigten Dateien herunter und legen es nach dem Entpacken so ab, dass Sie es finden, zum Beispiel in Ihrem Verzeichnis für den Informatikunterricht.
 
 **Zur *lokalen Verwendung* benötigen Sie**:
-* einen eigenen Googleaccount.
+
+* einen persönlichen Googleaccount.
 
 <hr/>
 
