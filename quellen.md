@@ -30,4 +30,4 @@ otlib](https://matplotlib.org)
 
 ## Bilder
 
-* Pixabay --> Falls ich die Männchen überhaupt verwende
+* Cheatsheet: Verzweigung: Bild von <a href="https://pixabay.com/de/users/peggy_marco-1553824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1020284">Peggy und Marco Lachmann-Anke</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1020284">Pixabay</a>
