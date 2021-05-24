@@ -45,6 +45,15 @@
             {{ content }}
 
             <footer class="site-footer">
+
+                {% if site.github.is_project_page %}
+                <span class="site-footer-owner">Das Repository <a href="{{ site.github.repository_url }}">{{
+                        site.github.repository_name }}</a> wird von <a href="{{ site.github.owner_url }}">{{
+                        site.github.owner_name }}</a> unterhalten.</span>
+                {% endif %}
+                <span class="site-footer-credits">Diese Seiten wurden erstellt mit <a
+                        href="https://pages.github.com">GitHub Pages</a> – <a
+                        href="/suchen-und-ordnen/quellen.html">Quellenangaben</a>.</span>
                 <span>
                     <a property="dct:title" rel="cc:attributionURL"
                         href="https://donze-informatikunterricht.github.io/suchen-und-ordnen/">Suchen und Ordnen</a>
@@ -57,15 +66,7 @@
                             src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
                             style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
                             src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a>
-                    <a href="/suchen-und-ordnen/quellen.html">Quellenangaben</a>
                 </span>
-                {% if site.github.is_project_page %}
-                <span class="site-footer-owner">Das Repository <a href="{{ site.github.repository_url }}">{{
-                        site.github.repository_name }}</a> wird von <a href="{{ site.github.owner_url }}">{{
-                        site.github.owner_name }}</a> unterhalten.</span>
-                {% endif %}
-                <span class="site-footer-credits">Diese Seiten wurden erstellt mit <a
-                        href="https://pages.github.com">GitHub Pages</a>.</span>
             </footer>
         </main>
     </body>
