@@ -41,7 +41,8 @@ Sie benötigen Folgendes:
 * lokal und online:
   * einen **modernen Web-Browser**  
   Chrome, Safari, Firefox  
-  Edge: den *neuen, Chromium-basierten* Edge. Er ist in Windows noch nicht Standard und muss explizit installiert werden. Um herauszufinden, welchen Edge Sie haben, öffnen Sie Edge. Im [...]-Menü > Hilfe und Feedback > Infos zu Microsoft Edge sehen Sie, 
+  Edge: den *neuen, Chromium-basierten* Edge. Er ist in Windows noch nicht Standard und muss explizit installiert werden. Um herauszufinden, welchen Edge Sie haben, öffnen Sie Edge. Im [...]-Menü > Hilfe und Feedback > Infos zu Microsoft Edge sehen Sie, wenn Sie einen Chromium-basierten* Edge haben:  
+  | <img src="assets/images/Edge-version-abfragen1.png" alt="edge-version1" width="40%"/> |  <img src="assets/images/Edge-version-abfragen2.png" alt="edge-version1" width="40%"/>|
 
 **Zur *lokalen Verwendung* benötigen Sie**:
 
@@ -49,6 +50,6 @@ Sie benötigen Folgendes:
 * beachten Sie, dass Sie in Ihrem Arbeitsverzeichnis die Notebookdateien (.ipynb) und ein Verzeichnis `bilder` haben sollten, das die Bilder enthält.  
   Am einfachsten laden Sie gleich [hier](./suchen-und-ordnen.zip) alle benötigten Dateien herunter und legen es nach dem Entpacken so ab, dass Sie es finden, zum Beispiel in Ihrem Verzeichnis für den Informatikunterricht.
 
-**Zur *lokalen Verwendung* benötigen Sie**:
+**Zur *Verwendung auf Google Colaboration* benötigen Sie**:
 
 * einen persönlichen Googleaccount.
