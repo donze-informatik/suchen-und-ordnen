@@ -30,6 +30,11 @@
     }
 }
 
+.page-header {
+    display:flex;
+    justify-content: space-between
+}
+
 body {
     color: var(--block-fg);
     background-color: var(--block-bg);
