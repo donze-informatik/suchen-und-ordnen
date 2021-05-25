@@ -48,44 +48,53 @@ body {
     background-color: var(--block-bg);
 }
 
-.main-content table th, .main-content table td {
-    padding: 5px;
-    border: none;
-}
-
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: var(--blue);
-}
-
-a {
-    color: var(--greenblue);
-}
-
-td a {
-    color: var(--green);
-}
-
-h1.project-name, h2.project-tagline {
-    color: var(--main-title);
-}
-
-.btn {
-    color: var(--main-title);
-}
-
-.main-content table th {
-    border-color: var(--border-blue);
-    table-layout:fixed;
-}
-
-.main-content table td {
-    border-color: var(--border-blue);
-    width: 3%;
-}
+.main-content {
+    font-size: 1rem;
     
-.main-content code {
-    color: var(--code-fg);
-    background-color: var(--code-bg);
+    h1.project-name, h2.project-tagline {
+        color: var(--main-title);
+    }
+    h1, h2, h3, h4, h5, h6 {
+        color: var(--blue);
+    }
+    
+    a {
+        color: var(--greenblue);
+    }
+    
+
+    table {
+        th, td {
+            padding: 5px;
+            border: none;
+        }
+        th {
+            border-color: var(--border-blue);
+            table-layout:fixed;
+        }
+            td {
+            border-color: var(--border-blue);
+            width: 3%;
+
+            a {
+                color: var(--green);
+            }
+        }
+    }
+
+    code {
+        color: var(--code-fg);
+        background-color: var(--code-bg);
+        font-size: 1rem;
+    }
+    
+    h1.project-name, h2.project-tagline {
+        color: var(--main-title);
+    }
+    
+    .btn {
+        color: var(--main-title);
+    }
 }
 
 .site-footer-owner {
