@@ -48,6 +48,11 @@ body {
     background-color: var(--block-bg);
 }
 
+.main-content table th, .main-content table td {
+    padding: 5px;
+    border: none;
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: var(--blue);
 }
