@@ -12,7 +12,7 @@ Gehen Sie auf die Seite von [Anaconda](https://www.anaconda.com/products/individ
 * Wählen Sie das Download-File, das zu Ihrer Umgebung passt.
   * Für den **Mac** empfiehlt sich der graphische Installer.
   * **Windows**: Wenn Sie nicht sicher sind, ob Sie einen 32-bit- oder 64-bit-Prozessor haben, öffnen Sie ein Explorerfenster, Rechtsklick auf  
-  "Dieser PC" > Eigenschaften > Systemtyp liefert die gewünschte Information:
+  "Dieser PC" > Eigenschaften > Systemtyp liefert die gewünschte Information:  
   <img src="assets/images/contextmenue.png" alt="pfad" width="20%"/> <img src="assets/images/systeminfo.png" alt="pfad" width="60%"/>
 
 ## Anaconda installieren
@@ -44,7 +44,7 @@ Es gibt verschiedene Möglichkeiten, wie Sie Jupyter Notebook starten können.
   * Starten Sie Jupyter über den Button "Launch".
   * In Ihrem Standard-Web-Browser sollte sich nun Jupyter öffnen.
     * **Windows**: Jupyter Notebook direkt aus dem Start-Menü starten  
-      Der Webbrowser wird sich selbst öffnen.
+      Der Webbrowser wird sich selbst öffnen.  
       <img src="assets/images/launch-jupyter.png" alt="launch-jupyter" width="30%"/>
 
 ## Möglichkeiten, das Jupyter Notebook im gewünschten Verzeichnis zu öffnen

@@ -15,21 +15,24 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
 
 * Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
 * Einführung in Fehlermeldungen
-* Material:  
-  Jupyter Notebook: Erste-Schritte.ipynb  
+
+Material:  
+
+* Jupyter Notebook: Erste-Schritte.ipynb  
   * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Erste-Schritte.ipynb) – [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte-Loesungen.ipynb)
   
-  [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf): In der Physik haben Sie eine Formelsammlung.  
-  Das Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug zu generellen Programmierkonzepten.
+  [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf): Im Mathematik- und Physikunterricht haben Sie eine Formelsammlung. Dieses Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug zu generellen Programmierkonzepten.
 
 ## Arrays (in Python: Listen) als Sammelgefäss für Daten
 
 * Erstellen von Listen
 * Iteration über Listen
 * Zugriff auf Listenbereiche
-* Material:  
-   Jupyter Notebook: Arrays.ipynb  
+
+Material:  
+
+* Jupyter Notebook: Arrays.ipynb  
   * Zur lokalen Bearbeitung (Download) [Notebook](assets/notebooks/Arrays.ipynb) – [Lösungen](assets/notebooks/Arrays-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays-Loesungen.ipynb)
 
@@ -38,21 +41,21 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
 Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (keine deutschen Untertitel verfügbar) zeigt auf, worauf Sie achten müssen, wenn Sie Algorithmen beschreiben.  
 [![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
 
-* Material:  
-  Jupyter Notebook: Algorithmen.ipynb  
+Material:  
+
+* Jupyter Notebook: Algorithmen.ipynb  
   * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Algorithmen.ipynb)
   * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Algorithmen.ipynb)
   * Keine Lösungen, da dieses Notebook keine Programmieraufgaben enthält.
 
-* Zusatzmaterial:  
-  Vorbereitungen zur Evaluation von Such- und Sortieralgorithmen
-  * Erstellung geeigneter Liste für die Laufzeitanalyse von Such- und Sortieralgorithmen
-  * Zeitmessungen
-  * "Zufallszahlen"
-  * Material
-      Jupyter Notebook: Vorbereitungen.ipynb  
-    * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](assets/notebooks/Vorbereitungen-Loesungen.ipynb)
-    * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen-Loesungen.ipynb)
+Zusatzmaterial: Vorbereitungen zur Evaluation von Such- und Sortieralgorithmen
+* Erstellung geeigneter Liste für die Laufzeitanalyse von Such- und Sortieralgorithmen
+* Zeitmessungen
+* "Zufallszahlen"
+
+* Jupyter Notebook: Vorbereitungen.ipynb
+  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](assets/notebooks/Vorbereitungen-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen-Loesungen.ipynb)
 
 ### Suchen
 
@@ -66,7 +69,7 @@ Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (
 
 ### Sortieren
 
-Als Einführung ins Sortieren von Listen mit Hilfe verschiedener bekannter Sortieralgorithmen können Sie sich den folgenden Clip von TED-Ed auf YouTube ansehen (deutsche Untertitel verfügbar).
+Als Einführung ins Sortieren von Listen mit Hilfe verschiedener bekannter Sortieralgorithmen können Sie sich den folgenden Clip von TED-Ed auf YouTube ansehen (deutsche Untertitel verfügbar).  
 [![Fastest Way to alphetize your Bookshelf](https://img.youtube.com/vi/WaNLJf8xzC4/0.jpg)](https://youtu.be/WaNLJf8xzC4)
 
 #### Insertion Sort
