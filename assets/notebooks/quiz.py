@@ -82,14 +82,13 @@ Q1_arrays = create_multipleChoice_widget('Welche Werte nimmt die Laufvariable i 
                                           'von 1 bis und ohne 10'],
                                          'von 0 bis und ohne 10')
 
-Q2_arrays = create_multipleChoice_widget('Welchen Wert nimmt die Laufvariable i im folgenden Loop nicht an? for i in c:',
+Q2_arrays = create_multipleChoice_widget('Welchen Wert nimmt el im folgenden Loop  NICHT  an? for el in c:',
                                          ['0',
                                           '1',
-                                          '4',
-                                          '5'],
+                                          '2',
+                                          '3',
+                                          '4'],
                                          '0')
-
-
 
 Q3_arrays = create_multipleChoice_widget('liste=[0 for x in range(5)] Was ist der Rückgabewert von len(liste)?',
                                          ['0',
@@ -114,10 +113,10 @@ Q5_arrays = create_multipleChoice_widget('Wie geben Sie eine Liste liste unter d
 
 Q6_arrays = create_multipleChoice_widget('Was ist das Ergebnis der folgenden Rechnung: a+c[len(c)-3]*len(b)?',
                                          ['Keines, es gibt eine Fehlermeldung',
-                                          '0',
+                                          '55',
                                           '5',
-                                          '6'],
-                                         '5')
+                                          '-5'],
+                                         '55')
 
 ### Algorithmen
 
