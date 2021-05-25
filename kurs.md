@@ -1,4 +1,4 @@
-[Home](./index.md) | [Installation, Setup](./installation_anaconda.md) | [Voraussetzungen](./voraussetzungen.md)
+[Startseite](./index.md) | Lernmaterialien | [Voraussetzungen](./voraussetzungen.md) | [Installation](./installation_anaconda.md)
 
 # Lernmaterialien
 
