@@ -2,16 +2,17 @@
 
 # Lernmaterialien
 
-Hier finden Sie alle Lerninhalte. Sie können chronologisch durchgehen oder einzelne Themen herauspicken und unabhängig voneinander vertiefen.
+Hier finden Sie alle Lernmaterialien. Sie können chronologisch durchgehen oder einzelne Themen herauspicken und diese unabhängig voneinander vertiefen.
 
-Dieser Kurs erfordert Grundkenntnisse im Programmieren. Sie können diese wenn nötig im ersten Teil unter Vorbereitende Inhalte auffrischen. Kenntnisse über Arrays (in Python: Listen) sind nicht vorausgesetzt. Diese werden Sie mit diesem Kurs erarbeiten und vertiefen. Falls Sie nur an den Algorithmen interessiert sind, können Sie die einzelnen Algorithmen auch unabhängig voneinander bearbeiten.
+Um die Inhalte bearbeiten zu können, benötigen Sie Grundkenntnisse im Programmieren mit Python. Sie können diese im ersten Teil unter [Vorbereitende Inhalte](#vorbereitendes) auffrischen oder den Einstieg in Python finden, falls Sie mit einer anderen Sprache vertraut sind. Ergänzend steht Ihnen ein [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
-Zudem steht Ihnen ein [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
+Kenntnisse über Arrays (in Python: Listen) sind keine vorausgesetzt. Diese werden Sie hier erarbeiten und vertiefen. Falls Sie gezielt sich mit spezifischen Algorithmen auseinandersetzen möchten, können Sie die einzelnen Algorithmen auch unabhängig voneinander bearbeiten.
 
 **Hinweis falls Sie lokal auf Ihrem Rechner arbeiten**  
-Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein wie die Jupyter Notebooks (.ipynb-Dateien). Am einfachsten laden Sie die Bilder gleich alle als Zip herunter: [bilder.zip](assets/bilder.zip) und entpacken es gleich. Oder Sie laden gleich alles herunter, alle Notebools und alle Bilder: [suchen-und-ordnen.zip](assets/suchen-und-ordnen.zip)
+Falls Sie lokal arbeiten, muss sich der Ordner `bilder/` im gleichen Verzeichnis befinden wie die Jupyter-Notebook-Dateien (Endung .ipynb). Am einfachsten laden Sie alle Bilder oder sämtliche Kursinhalte (Notebooks und Bilder) in einem Paket herunter:  
+[bilder.zip](assets/bilder.zip) | [suchen-und-ordnen.zip](assets/suchen-und-ordnen.zip)
 
-## Vorbereitende Inhalte
+## <span id="vorbereitendes"> Vorbereitende Inhalte
 
 * Einführung in Markdown und Auffrischung des Programmierkönnens (Aktivierung des Vorwissens)
 * Einführung in Fehlermeldungen
@@ -19,10 +20,12 @@ Falls Sie lokal arbeiten, muss der Ordner `bilder` im gleichen Verzeichnis sein 
 Material:  
 
 * Jupyter Notebook: Erste-Schritte.ipynb  
-  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Erste-Schritte.ipynb) – [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download):  
+  [Notebook](assets/notebooks/Erste-Schritte.ipynb) – [Lösungen](assets/notebooks/Erste-Schritte-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Erste-Schritte-Loesungen.ipynb)
   
-  [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf): Im Mathematik- und Physikunterricht haben Sie eine Formelsammlung. Dieses Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug zu generellen Programmierkonzepten.
+  [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf): Im Mathematik- und Physikunterricht haben Sie eine Formelsammlung. Dieses Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug auf generelle Programmierkonzepte.
 
 ## Arrays (in Python: Listen) als Sammelgefäss für Daten
 
@@ -33,8 +36,10 @@ Material:
 Material:  
 
 * Jupyter Notebook: Arrays.ipynb  
-  * Zur lokalen Bearbeitung (Download) [Notebook](assets/notebooks/Arrays.ipynb) – [Lösungen](assets/notebooks/Arrays-Loesungen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download):  
+  [Notebook](assets/notebooks/Arrays.ipynb) – [Lösungen](assets/notebooks/Arrays-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays-Loesungen.ipynb)
 
 ## Algorithmen
 
@@ -44,18 +49,24 @@ Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (
 Material:  
 
 * Jupyter Notebook: Algorithmen.ipynb  
-  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Algorithmen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Algorithmen.ipynb)
+  * Zur lokalen Bearbeitung (Download):  
+  [Notebook](assets/notebooks/Algorithmen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Algorithmen.ipynb)
   * Keine Lösungen, da dieses Notebook keine Programmieraufgaben enthält.
 
-Zusatzmaterial: Vorbereitungen zur Evaluation von Such- und Sortieralgorithmen
+Zusatzmaterial:  
+Vorbereitungen zur Evaluation von Such- und Sortieralgorithmen
+
 * Erstellung geeigneter Liste für die Laufzeitanalyse von Such- und Sortieralgorithmen
 * Zeitmessungen
 * "Zufallszahlen"
 
 * Jupyter Notebook: Vorbereitungen.ipynb
-  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](assets/notebooks/Vorbereitungen-Loesungen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download):  
+  [Notebook](assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](assets/notebooks/Vorbereitungen-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vorbereitungen-Loesungen.ipynb)
 
 ### Suchen
 
@@ -64,8 +75,10 @@ Zusatzmaterial: Vorbereitungen zur Evaluation von Such- und Sortieralgorithmen
   * geordneten Liste
 * Material:  
   Jupyter Notebook: Suchen.ipynb  
-  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Suchen.ipynb) – [Lösungen](assets/notebooks/Suchen-Loesungen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Suchen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Suchen-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download):  
+  [Notebook](assets/notebooks/Suchen.ipynb) – [Lösungen](assets/notebooks/Suchen-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Suchen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Suchen-Loesungen.ipynb)
 
 ### Sortieren
 
@@ -77,16 +90,20 @@ Als Einführung ins Sortieren von Listen mit Hilfe verschiedener bekannter Sorti
 * Einfügen eines Elements in eine Liste
 * Material:  
   Jupyter Notebook: Insertionsort.ipynb  
-  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Insertionsort.ipynb) – [Lösungen](assets/notebooks/Insertionsort-Loesungen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Insertionsort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Insertionsort-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download):  
+  [Notebook](assets/notebooks/Insertionsort.ipynb) – [Lösungen](assets/notebooks/Insertionsort-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Insertionsort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Insertionsort-Loesungen.ipynb)
 
 #### Selection Sort
 
 * Suche nach dem kleinsten bzw. grössten Element einer Liste
 * Material:  
   Jupyter Notebook: Selectionsort.ipynb  
-  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Selectionsort.ipynb) – [Lösungen](assets/notebooks/Selectionsort-Loesungen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Selectionsort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Selectionsort-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download):  
+  [Notebook](assets/notebooks/Selectionsort.ipynb) – [Lösungen](assets/notebooks/Selectionsort-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Selectionsort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Selectionsort-Loesungen.ipynb)
 
 #### Bubble Sort
 
@@ -94,8 +111,10 @@ Als Einführung ins Sortieren von Listen mit Hilfe verschiedener bekannter Sorti
 * Sinn der Optimierung von Algorithmen
 * Material:  
   Jupyter Notebook: Bubblesort.ipynb  
-  * Zur lokalen Bearbeitung (Download): [Notebook](assets/notebooks/Bubblesort.ipynb) – [Lösungen](assets/notebooks/Bubblesort-Loesungen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort-Loesungen.ipynb)
+  * Zur lokalen Bearbeitung (Download):  
+  [Notebook](assets/notebooks/Bubblesort.ipynb) – [Lösungen](assets/notebooks/Bubblesort-Loesungen.ipynb)
+  * Zur Bearbeitung auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Bubblesort-Loesungen.ipynb)
 
 #### Merge Sort
 

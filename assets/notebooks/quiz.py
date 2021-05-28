@@ -164,14 +164,14 @@ Q3_suchen = create_multipleChoice_widget('Schauen Sie sich die Liste c an. Welch
                                           'Keiner der beiden Suchalgorithmen ist geeignet.'],
                                          'Lineare Suche')
 
-Q4_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste b mit Hilfe der binären Suche  suchen, wieviele Schritte benötigen Sie?',
+Q4_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste b mit der binären Suche suchen, wieviele Schritte benötigen Sie?',
                                          ['1',
                                           '4',
                                           '5',
                                           '10'],
                                          '4')
 
-Q5_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste c mit Hilfe der linearen Suche suchen, wieviele Schritte benötigen Sie?',
+Q5_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste c mit der linearen Suche suchen, wieviele Schritte benötigen Sie?',
                                          ['10',
                                           '5',
                                           '1',
