@@ -90,6 +90,8 @@ Q2_arrays = create_multipleChoice_widget('Welchen Wert nimmt el im folgenden Loo
                                           '4'],
                                          '0')
 
+
+
 Q3_arrays = create_multipleChoice_widget('liste=[0 for x in range(5)] Was ist der Rückgabewert von len(liste)?',
                                          ['0',
                                           '4',
@@ -164,16 +166,52 @@ Q3_suchen = create_multipleChoice_widget('Schauen Sie sich die Liste c an. Welch
                                           'Keiner der beiden Suchalgorithmen ist geeignet.'],
                                          'Lineare Suche')
 
-Q4_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste b mit der binären Suche suchen, wieviele Schritte benötigen Sie?',
+Q4_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste b mit Hilfe der binären Suche  suchen, wieviele Schritte benötigen Sie?',
                                          ['1',
                                           '4',
                                           '5',
                                           '10'],
                                          '4')
 
-Q5_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste c mit der linearen Suche suchen, wieviele Schritte benötigen Sie?',
+Q5_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste c mit Hilfe der linearen Suche suchen, wieviele Schritte benötigen Sie?',
                                          ['10',
                                           '5',
                                           '1',
                                           '0'],
                                          '1')
+
+# Insertion Sort
+Q1_insertion = create_multipleChoice_widget('Sie Sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 190 Versuche. Was können Sie über die sortierte Liste aussagen?',
+                                         ['Sie war sortiert.',
+                                          'Sie war umgekehrt sortiert.',
+                                          'Sie war zufällig sortiert',
+                                          'Das ist gar nicht möglich.'],
+                                         'Sie war umgekehrt sortiert.')
+
+Q2_insertion = create_multipleChoice_widget('Sie Sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 10 Versuche. Was können Sie über die sortierte Liste aussagen?',
+                                         ['Sie war sortiert.',
+                                          'Sie war umgekehrt sortiert.',
+                                          'Sie war zufällig sortiert',
+                                          'Das ist gar nicht möglich.'],
+                                         'Das ist gar nicht möglich.')
+
+Q3_insertion = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Insertion-Sort-Algorithmus. Wie sieht die Liste nach dem 2. Durchgang aus?',
+                                         ['[2, 3, 7, 1, 6, 8, 4, 0, 5, 9]',
+                                          '[1, 2, 3, 7, 6, 8, 4, 0, 5, 9]',
+                                          '[3, 4, 1, 6, 5, 9, 7, 0, 2, 8]',
+                                          '[1, 2, 3, 6, 7, 8, 4, 0, 5, 9]'],
+                                         '[1, 2, 3, 6, 7, 8, 4, 0, 5, 9]')
+
+Q4_insertion = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Insertion-Sort-Algorithmus. Wie viele Schritte erwarten Sie?',
+                                         ['9',
+                                          '24',
+                                          '45',
+                                          '90'],
+                                         '24')
+
+Q5_insertion = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 19 Versuche. Was muss die Ausgangslage sein?',
+                                         ['sortiert',
+                                          'umgekehrt sortiert',
+                                          'zufällig',
+                                          'Das ist gar nicht möglich.'],
+                                         'sortiert')

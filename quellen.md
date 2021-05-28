@@ -32,6 +32,14 @@
 * [David Galles, Computer Science, University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Search.html)
 * [Toptal: Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 * [Brilliant: Sorting Algorithms](https://brilliant.org/wiki/sorting-algorithms/)
+* [AlgoRhytmics auf YouTube]()
+  * [Lineare Suche: Linear Search with Flamenco dance](https://www.youtube.com/watch?v=-PuqKbu9K3U)
+  * [Binäre Suche: Binary Search with Flamenco dance](https://www.youtube.com/watch?v=iP897Z5Nerk)
+  * [Insertion Sort: Insert-sort with Romanian folk dance](https://www.youtube.com/watch?v=ROalU379l3U)
+  * [Selection Sort: Select-sort with Gypsy folk dance](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+  * [Bubble Sort: Bubble-sort with Hungarian ("Csángó") folk dance](https://www.youtube.com/watch?v=lyZQPjUT5B4)
+  * [Merge Sort: Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=XaqR3G_NVoo)
+  * [Quick Sort: Quick-sort with Hungarian (Küküllőmenti legényes) folk dance](https://www.youtube.com/watch?v=ywWBy6J5gz8)
 
 ## Bilder
 
