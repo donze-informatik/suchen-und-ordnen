@@ -198,9 +198,9 @@ Q2_insertion = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Ele
 Q3_insertion = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Insertion-Sort-Algorithmus. Wie sieht die Liste nach dem 2. Durchgang aus?',
                                          ['[2, 3, 7, 1, 6, 8, 4, 0, 5, 9]',
                                           '[1, 2, 3, 7, 6, 8, 4, 0, 5, 9]',
-                                          '[3, 4, 1, 6, 5, 9, 7, 0, 2, 8]',
-                                          '[1, 2, 3, 6, 7, 8, 4, 0, 5, 9]'],
-                                         '[1, 2, 3, 6, 7, 8, 4, 0, 5, 9]')
+                                          '[1, 2, 3, 6, 7, 8, 4, 0, 5, 9]',
+                                          '[1, 2, 3, 4, 6, 7, 8, 0, 5, 9]'],
+                                         '[2, 3, 7, 1, 6, 8, 4, 0, 5, 9]')
 
 Q4_insertion = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Insertion-Sort-Algorithmus. Wie viele Vergleiche erwarten Sie?',
                                          ['9',
@@ -224,12 +224,12 @@ Q1_selection = create_multipleChoice_widget('Sie sortieren die gegebene Liste a 
                                           '90'],
                                          '45')
 
-Q2_selection = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Selection-Sort-Algorithmus. Sie beobachten 19 Vergleiche. Was können Sie über die sortierte Liste aussagen?',
+Q2_selection = create_multipleChoice_widget('Sie sortieren eine Liste mit 10 Elementen mit dem Selection-Sort-Algorithmus. Sie beobachten 45 Vergleiche. Was können Sie über die sortierte Liste aussagen?',
                                          ['Sie war sortiert.',
                                           'Sie war umgekehrt sortiert.',
                                           'Sie war zufällig sortiert',
-                                          'Das ist gar nicht möglich.'],
-                                         'Das ist gar nicht möglich.')
+                                          'Selection Sort ist für alle Ausgangslagen gleich.'],
+                                         'Selection Sort ist für alle Ausgangslagen gleich.')
 
 Q3_selection = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Selection-Sort-Algorithmus. Wie sieht die Liste nach dem 2. Durchgang aus?',
                                          ['[0, 1, 7, 3, 6, 8, 4, 2, 5, 9]',
