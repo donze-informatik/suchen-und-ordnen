@@ -8,11 +8,11 @@ Gehen Sie auf die Seite von [Anaconda](https://www.anaconda.com/products/individ
 
 * Die Individual-Lizenz ist für den Privat- und Ausbildungsbereich kostenlos.  
   *Sie müssen sich **nirgendwo registrieren***.
-* Ein Klick auf den Button "Download" unter dem obersten Abschnitt scrollt die Seite an den richtigen Ort.
+* Ein Klick auf den Button &laquo;Download&raquo; unter dem obersten Abschnitt scrollt die Seite an den richtigen Ort.
 * Wählen Sie das Download-File, das zu Ihrer Umgebung passt.
   * Für den **Mac** empfiehlt sich der graphische Installer.
   * **Windows**: Wenn Sie nicht sicher sind, ob Sie einen 32-bit- oder 64-bit-Prozessor haben, öffnen Sie ein Explorerfenster, Rechtsklick auf  
-  "Dieser PC" > Eigenschaften > Systemtyp liefert die gewünschte Information:  
+  Dieser PC > Eigenschaften > Systemtyp liefert die gewünschte Information:  
   <img src="assets/images/contextmenue.png" alt="pfad" width="20%"/> <img src="assets/images/systeminfo.png" alt="pfad" width="60%"/>
 
 ## Anaconda installieren
@@ -41,7 +41,7 @@ Es gibt verschiedene Möglichkeiten, wie Sie Jupyter Notebook starten können.
     <img src="assets/images/launch-navigator.png" alt="launch-navigator" width="30%"/>
 * Im **Anaconda Navigator** finden Sie Jupyter und andere Tools.  
   <img src="assets/images/anaconda-navigator.png" alt="anaconda-navigator"/>
-  * Starten Sie Jupyter über den Button "Launch".
+  * Starten Sie Jupyter über den Button &laquo;Launch&raquo;.
   * In Ihrem Standard-Web-Browser sollte sich nun Jupyter öffnen.
     * **Windows**: Jupyter Notebook direkt aus dem Start-Menü starten  
       Der Webbrowser wird sich selbst öffnen.  
@@ -58,7 +58,7 @@ Sie haben die Möglichkeit, Ihr Jupyter Notebook direkt im Verzeichnis Ihrer Wah
     `jupyter notebook`
 * **Windows**:
   * In diesem Beispiel ist das Verzeichnis: `C:\Users\User\Jupyter`  
-    (Benutzername: "User")
+    (Benutzername: &laquo;User&laquo;)
   * Machen Sie einen Shortcut des Jupyter Launchers auf den auf dem Desktop.
     * Rechtsklick darauf -> Properties
     * Nun können Sie in den Feldern Target bzw. Start in `%USERPROFILE%` bzw. `%HOMEPATH%` durch Ihren Pfad ersetzen:  

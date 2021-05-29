@@ -4,7 +4,7 @@
 
 Hier finden Sie alle Lernmaterialien. Sie können chronologisch durchgehen oder einzelne Themen herauspicken und diese unabhängig voneinander vertiefen.
 
-Um die Inhalte bearbeiten zu können, benötigen Sie Grundkenntnisse im Programmieren mit Python. Sie können diese im ersten Teil unter [Vorbereitende Inhalte](#vorbereitendes) auffrischen oder den Einstieg in Python finden, falls Sie mit einer anderen Sprache vertraut sind. Ergänzend steht Ihnen ein [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
+Um die Inhalte bearbeiten zu können, benötigen Sie Grundkenntnisse im Programmieren mit Python. Sie können diese im ersten Teil unter &laquo;[Vorbereitende Inhalte](#vorbereitendes)&raquo; auffrischen oder den Einstieg in Python finden, falls Sie mit einer anderen Sprache vertraut sind. Ergänzend steht Ihnen ein [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
 Kenntnisse über Listen sind keine vorausgesetzt. Diese werden Sie hier erarbeiten und vertiefen. Falls Sie sich gezielt mit spezifischen Algorithmen auseinandersetzen möchten, können Sie diese auch unabhängig voneinander bearbeiten.
 
@@ -60,7 +60,7 @@ Vorbereitungen zur Evaluation von Such- und Sortieralgorithmen
 
 * Erstellung geeigneter Liste für die Laufzeitanalyse von Such- und Sortieralgorithmen
 * Zeitmessungen
-* "Zufallszahlen"
+* &laquo;Zufallszahlen&raquo;
 
 * Jupyter Notebook: Vorbereitungen.ipynb
   * Zur lokalen Bearbeitung (Download):  

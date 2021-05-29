@@ -1,6 +1,6 @@
 Startseite | [Lernmaterialien](./kurs.md) | [Voraussetzungen](./voraussetzungen.md) | [Installation](./installation_anaconda.md)
 
-# Listen am Beispiel "Suchen und Ordnen"
+# Listen am Beispiel &laquo;Suchen und Ordnen&raquo;
 
 Hier lernen Sie, Daten strukturiert in Listen zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
 
