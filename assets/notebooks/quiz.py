@@ -181,14 +181,14 @@ Q5_suchen = create_multipleChoice_widget('Wenn Sie den Wert 24 in der Liste c mi
                                          '1')
 
 # Insertion Sort
-Q1_insertion = create_multipleChoice_widget('Sie Sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 190 Versuche. Was können Sie über die sortierte Liste aussagen?',
+Q1_insertion = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 190 Vergleiche. Was können Sie über die sortierte Liste aussagen?',
                                          ['Sie war sortiert.',
                                           'Sie war umgekehrt sortiert.',
                                           'Sie war zufällig sortiert',
                                           'Das ist gar nicht möglich.'],
                                          'Sie war umgekehrt sortiert.')
 
-Q2_insertion = create_multipleChoice_widget('Sie Sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 10 Versuche. Was können Sie über die sortierte Liste aussagen?',
+Q2_insertion = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 10 Vergleiche. Was können Sie über die sortierte Liste aussagen?',
                                          ['Sie war sortiert.',
                                           'Sie war umgekehrt sortiert.',
                                           'Sie war zufällig sortiert',
@@ -202,16 +202,90 @@ Q3_insertion = create_multipleChoice_widget('Sie sortieren die gegebene Liste a 
                                           '[1, 2, 3, 6, 7, 8, 4, 0, 5, 9]'],
                                          '[1, 2, 3, 6, 7, 8, 4, 0, 5, 9]')
 
-Q4_insertion = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Insertion-Sort-Algorithmus. Wie viele Schritte erwarten Sie?',
+Q4_insertion = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Insertion-Sort-Algorithmus. Wie viele Vergleiche erwarten Sie?',
                                          ['9',
                                           '24',
                                           '45',
                                           '90'],
                                          '24')
 
-Q5_insertion = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 19 Versuche. Was muss die Ausgangslage sein?',
+Q5_insertion = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Insertion-Sort-Algorithmus. Sie beobachten 19 Vergleiche. Was muss die Ausgangslage sein?',
                                          ['sortiert',
                                           'umgekehrt sortiert',
                                           'zufällig',
                                           'Das ist gar nicht möglich.'],
                                          'sortiert')
+
+# Selection Sort
+Q1_selection = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Selection-Sort-Algorithmus. Wie viele Vergleiche erwarten Sie?',
+                                         ['10',
+                                          '19',
+                                          '45',
+                                          '90'],
+                                         '45')
+
+Q2_selection = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Selection-Sort-Algorithmus. Sie beobachten 19 Vergleiche. Was können Sie über die sortierte Liste aussagen?',
+                                         ['Sie war sortiert.',
+                                          'Sie war umgekehrt sortiert.',
+                                          'Sie war zufällig sortiert',
+                                          'Das ist gar nicht möglich.'],
+                                         'Das ist gar nicht möglich.')
+
+Q3_selection = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Selection-Sort-Algorithmus. Wie sieht die Liste nach dem 2. Durchgang aus?',
+                                         ['[0, 1, 7, 3, 6, 8, 4, 2, 5, 9]',
+                                          '[0, 3, 7, 1, 6, 8, 4, 2, 5, 9]',
+                                          '[3, 4, 1, 6, 5, 9, 7, 0, 2, 8]',
+                                          '[0, 1, 2, 3, 6, 8, 4, 7, 5, 9]'],
+                                         '[0, 1, 7, 3, 6, 8, 4, 2, 5, 9]')
+
+Q4_selection = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Selection-Sort-Algorithmus. Sie beobachten 19 Vergleiche. Was können Sie über die sortierte Liste aussagen?',
+                                         ['Sie war sortiert.',
+                                          'Sie war umgekehrt sortiert.',
+                                          'Sie war zufällig sortiert',
+                                          'Es ist keine Aussage möglich.'],
+                                         'Es ist keine Aussage möglich.')
+
+Q5_selection = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Selection-Sort-Algorithmus. Wie viele Vergleiche erwarten Sie?',
+                                         ['9',
+                                          '24',
+                                          '45',
+                                          '90'],
+                                         '45')
+
+# Bubblesort
+Q1_bubble = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem maximal optimierten Bubblesort-Algorithmus. Sie beobachten 19 Vergleiche. Was können Sie über die sortierte Liste aussagen?',
+                                         ['Sie war sortiert.',
+                                          'Sie war umgekehrt sortiert.',
+                                          'Sie war zufällig sortiert',
+                                          'Das ist gar nicht möglich.'],
+                                         'Sie war sortiert.')
+
+Q2_bubble = create_multipleChoice_widget('Sie sortieren eine Liste mit 20 Elementen mit dem Bubblesort-Algorithmus. Sie beobachten 19 Vergleiche. Was können Sie über die Optimierung aussagen?',
+                                         ['Keine Optimierung: Brute Force.',
+                                          'Nur der unsortierte Teil wird angeschaut (Optimierung 1).',
+                                          'Es wird überprüft, ob die Liste sortiert ist (Optimierung 2).',
+                                          'Das ist gar nicht möglich.'],
+                                         'Es wird überprüft, ob die Liste sortiert ist (Optimierung 2).')
+
+Q3_bubble = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Bubblesort-Algorithmus. Wie sieht die Liste nach dem 2. Durchgang aus?',
+                                         ['[2, 3, 7, 1, 6, 8, 4, 0, 5, 9]',
+                                          '[1, 2, 3, 7, 6, 8, 4, 0, 5, 9]',
+                                          '[2, 1, 3, 6, 4, 0, 5, 7, 8, 9]',
+                                          '[1, 2, 3, 4, 0, 5, 6, 7, 8, 9]'],
+                                         '[2, 1, 3, 6, 4, 0, 5, 7, 8, 9]')
+
+Q4_bubble = create_multipleChoice_widget('Sie sortieren eine umgekehrt sortierte Liste mit dem Bubblesort-Algorithmus und Sie haben alle Optimierungen implementiert. Wie viele Vergleiche erwarten Sie?',
+                                         ['9',
+                                          '45',
+                                          '81',
+                                          '90'],
+                                         '45')
+
+Q5_bubble = create_multipleChoice_widget('Sie sortieren die gegebene Liste a mit dem Bubblesort-Algorithmus und Sie keine Optimierungen implementiert. Wie viele Vergleiche erwarten Sie?',
+                                         ['9',
+                                          '45',
+                                          '81',
+                                          '90'],
+                                         '81')
+
+
