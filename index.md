@@ -1,10 +1,10 @@
 Startseite | [Lernmaterialien](./kurs.md) | [Voraussetzungen](./voraussetzungen.md) | [Installation](./installation_anaconda.md)
 
-# Arrays (Listen) am Beispiel "Suchen und Ordnen"
+# Listen am Beispiel "Suchen und Ordnen"
 
-Hier lernen Sie, Daten strukturiert in Arrays (in Python: Listen) zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
+Hier lernen Sie, Daten strukturiert in Listen zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
 
-Nach einer **Einführung** in Jupyter Notebooks und Markdown und einer **Auffrischung des vorausgesetzten Programmierwissens** erfolgt eine Einführung in **Arrays** (Listen).
+Nach einer **Einführung** in Jupyter Notebooks und Markdown und einer **Auffrischung des vorausgesetzten Programmierwissens** erfolgt eine Einführung in **Listen**.
 
 Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
 
