@@ -4,7 +4,7 @@
 
 Dieser Kurs erfordert Grundkenntnisse im Programmieren. Sie können diese wenn nötig im ersten Teil des [Kurses](./kurs.md) unter Erste Schritte auffrischen oder einen Einstieg in die Programmierung mit Python finden, falls Sie bereits über Programmierkenntnisse in einer anderen Sprache verfügen.
 
-Kenntnisse über Arrays als sequentielle Datenstruktur sind nicht vorausgesetzt. Diese werden Sie in diesem Kurs erarbeiten und vertiefen.
+Kenntnisse über Listen als sequentielle Datenstruktur sind nicht vorausgesetzt. Diese werden Sie in diesem Kurs erarbeiten und vertiefen.
 
 Die einzelnen Algorithmen lassen sich auch unabhängig voneinander bearbeiten.
 

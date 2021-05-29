@@ -6,10 +6,10 @@ Hier finden Sie alle Lernmaterialien. Sie können chronologisch durchgehen oder 
 
 Um die Inhalte bearbeiten zu können, benötigen Sie Grundkenntnisse im Programmieren mit Python. Sie können diese im ersten Teil unter [Vorbereitende Inhalte](#vorbereitendes) auffrischen oder den Einstieg in Python finden, falls Sie mit einer anderen Sprache vertraut sind. Ergänzend steht Ihnen ein [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
-Kenntnisse über Arrays (in Python: Listen) sind keine vorausgesetzt. Diese werden Sie hier erarbeiten und vertiefen. Falls Sie gezielt sich mit spezifischen Algorithmen auseinandersetzen möchten, können Sie die einzelnen Algorithmen auch unabhängig voneinander bearbeiten.
+Kenntnisse über Listen sind keine vorausgesetzt. Diese werden Sie hier erarbeiten und vertiefen. Falls Sie sich gezielt mit spezifischen Algorithmen auseinandersetzen möchten, können Sie diese auch unabhängig voneinander bearbeiten.
 
-**Hinweis falls Sie lokal auf Ihrem Rechner arbeiten**  
-Falls Sie lokal arbeiten, muss sich der Ordner `bilder/` im gleichen Verzeichnis befinden wie die Jupyter-Notebook-Dateien (Endung .ipynb). Am einfachsten laden Sie alle Bilder oder sämtliche Kursinhalte (Notebooks und Bilder) in einem Paket herunter:  
+**Hinweis**  
+Falls Sie **lokal** (auf Ihrem Rechner) arbeiten, muss sich der Ordner `bilder/` im gleichen Verzeichnis befinden wie die Jupyter-Notebook-Dateien (mit der Endung .ipynb). Am einfachsten laden Sie alle Bilder oder sämtliche Kursinhalte (Notebooks und Bilder) in einem Paket herunter:  
 [bilder.zip](assets/bilder.zip) | [suchen-und-ordnen.zip](assets/suchen-und-ordnen.zip)
 
 ## <span id="vorbereitendes"> Vorbereitende Inhalte
@@ -27,7 +27,7 @@ Material:
   
   [Python-Cheatsheet (PDF)](assets/notebooks/downloads/cheatsheet.pdf): Im Mathematik- und Physikunterricht haben Sie eine Formelsammlung. Dieses Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug auf generelle Programmierkonzepte.
 
-## Arrays (in Python: Listen) als Sammelgefäss für Daten
+## Listen als Sammelgefäss für Daten
 
 * Erstellen von Listen
 * Iteration über Listen
@@ -35,11 +35,11 @@ Material:
 
 Material:  
 
-* Jupyter Notebook: Arrays.ipynb  
+* Jupyter Notebook: Listen.ipynb  
   * Zur lokalen Bearbeitung (Download):  
-  [Notebook](assets/notebooks/Arrays.ipynb) – [Lösungen](assets/notebooks/Arrays-Loesungen.ipynb)
+  [Notebook](assets/notebooks/Listen.ipynb) – [Lösungen](assets/notebooks/Listen-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
-  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Arrays-Loesungen.ipynb)
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Listen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Listen-Loesungen.ipynb)
 
 ## Algorithmen
 
