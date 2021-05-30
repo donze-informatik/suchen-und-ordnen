@@ -2,10 +2,8 @@ Startseite | [Lernmaterialien](./kurs.md) | [Voraussetzungen](./voraussetzungen
 
 # Listen am Beispiel &laquo;Suchen und Ordnen&raquo;
 
-Hier lernen Sie, Daten strukturiert in Listen zu speichern und üben den Umgang damit am Beispiel von Such- und Sortieralgorithmen.
+Hier lernen Sie, Daten strukturiert in Listen zu speichern und üben den Umgang mit dieser Datenstruktur am Beispiel von Such- und Sortieralgorithmen.
 
-Nach einer **Einführung** in Jupyter Notebooks und Markdown und einer **Auffrischung des vorausgesetzten Programmierwissens** erfolgt eine Einführung in **Listen**.
+Nach einer [übersichtlichen Einführung](./kurs#vorbereitendes) in Jupyter Notebooks und Markdown sowie einer Auffrischung des vorausgesetzten Programmierwissens erfolgt eine [Einführung in Listen als sequentielle Datenstruktur](/kurs.md#listen).
 
-Im Teil Suchen und Ordnen (Sortieren) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen.
-
-Dieser Kurs arbeitet mit Python. Die algorithmischen Inhalte lassen sich auf andere Sprachen übertragen, ebenso die Programmierkonzepte. Gewisse pythonspezifische Inhalte werden nicht eins zu eins umsetzbar sein.
+Im Teil [&laquo;Suchen und Ordnen&raquo;](./kurs.md#algorithmen) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen. Sie werden die Algorithmen implementieren, optimieren und visualisieren und sich dabei Gedanken machen zu ihrer Laufzeit und Eignung für verschiedenen Ausgangskonstellationen.
