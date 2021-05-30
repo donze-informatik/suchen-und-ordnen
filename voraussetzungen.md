@@ -52,8 +52,8 @@ Zur **lokalen Verwendung** benötigen Sie ausserdem
 
 * Jupyter Notebooks  
   * am einfachsten zu installieren über Anaconda, ([Installationsanleitung](./installation_anaconda.md))
-  * beachten Sie, dass Sie in Ihrem Arbeitsverzeichnis die Notebookdateien (.ipynb) und ein Verzeichnis `/bilder` haben sollten, das die Bilder enthält.  
-  Am einfachsten laden Sie gleich [hier](./suchen-und-ordnen.zip) alle benötigten Dateien herunter und legen das Verzeichnis nach dem Entpacken so ab, dass Sie es finden, zum Beispiel im Verzeichnis, das Sie für den Informatikunterricht verwenden.
+  * beachten Sie, dass Sie in Ihrem Arbeitsverzeichnis die Jupyter-Notebook-Dateien (mit der Endung .ipynb) und ein Verzeichnis `bilder/` haben sollten, das die Bilder enthält.  
+  Am einfachsten laden Sie gleich [hier](/assets/suchen-und-ordnen.zip) alle benötigten Dateien herunter und legen das Verzeichnis nach dem Entpacken so ab, dass Sie es finden, zum Beispiel im Verzeichnis, das Sie für den Informatikunterricht verwenden.
 
 Zur **Verwendung auf Google Colaboration** benötigen Sie
 
