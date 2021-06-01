@@ -26,7 +26,7 @@ Materialien
 
 * Jupyter Notebook: Erste-Schritte.ipynb  
   * Zur lokalen Bearbeitung (Download):  
-  [Notebook](blob/main/notebooks/Erste-Schritte.ipynb) – [Lösungen](blob/main/notebooks/Erste-Schritte-Loesungen.ipynb)
+  [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Erste-Schritte.ipynb) – [Lösungen](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Erste-Schritte-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Erste-Schritte.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Erste-Schritte-Loesungen.ipynb)
   
@@ -45,7 +45,7 @@ Materialien
 
 * Jupyter Notebook: Listen.ipynb  
   * Zur lokalen Bearbeitung (Download):  
-  [Notebook](blob/main/notebooks/Listen.ipynb) – [Lösungen](blob/main/notebooks/Listen-Loesungen.ipynb)
+  [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Listen.ipynb) – [Lösungen](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Listen-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Listen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Listen-Loesungen.ipynb)
 
@@ -63,7 +63,7 @@ Materialien
 
 * Jupyter Notebook: Algorithmen.ipynb  
   * Zur lokalen Ansicht (Download):  
-  [Notebook](blob/main/notebooks/Algorithmen.ipynb)
+  [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Algorithmen.ipynb)
   * Zur Ansicht auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Algorithmen.ipynb)
   * Keine Lösungen, da dieses Notebook keine Programmieraufgaben enthält.
@@ -83,7 +83,7 @@ Materialien
 * Jupyter Notebook: Vorbereitungen.ipynb
 
   * Zur lokalen Bearbeitung (Download):  
-    [Notebook](blob/main/notebooks/Vorbereitungen.ipynb) – [Lösungen](blob/main/notebooks/Vorbereitungen-Loesungen.ipynb)
+    [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Vorbereitungen.ipynb) – [Lösungen](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Vorbereitungen-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
     [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Vorbereitungen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Vorbereitungen-Loesungen.ipynb)
 
@@ -103,7 +103,7 @@ Materialien
 
 * Jupyter Notebook: Suchen.ipynb  
   * Zur lokalen Bearbeitung (Download):  
-  [Notebook](blob/main/notebooks/Suchen.ipynb) – [Lösungen](blob/main/notebooks/Suchen-Loesungen.ipynb)
+  [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Suchen.ipynb) – [Lösungen](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Suchen-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Suchen.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Suchen-Loesungen.ipynb)
 
@@ -124,7 +124,7 @@ Materialien
 
 * Jupyter Notebook: Insertionsort.ipynb  
   * Zur lokalen Bearbeitung (Download):  
-  [Notebook](blob/main/notebooks/Insertionsort.ipynb) – [Lösungen](blob/main/notebooks/Insertionsort-Loesungen.ipynb)
+  [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Insertionsort.ipynb) – [Lösungen](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Insertionsort-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Insertionsort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Insertionsort-Loesungen.ipynb)
 
@@ -138,7 +138,7 @@ Materialien
 
 * Jupyter Notebook: Selectionsort.ipynb  
   * Zur lokalen Bearbeitung (Download):  
-  [Notebook](blob/main/notebooks/Selectionsort.ipynb) – [Lösungen](blob/main/notebooks/Selectionsort-Loesungen.ipynb)
+  [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Selectionsort.ipynb) – [Lösungen](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Selectionsort-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Selectionsort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Selectionsort-Loesungen.ipynb)
 
@@ -153,7 +153,7 @@ Materialien
 
 * Jupyter Notebook: Bubblesort.ipynb  
   * Zur lokalen Bearbeitung (Download):  
-    [Notebook](blob/main/notebooks/Bubblesort.ipynb) – [Lösungen](blob/main/notebooks/Bubblesort-Loesungen.ipynb)
+    [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Bubblesort.ipynb) – [Lösungen](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Bubblesort-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
     [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Bubblesort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Bubblesort-Loesungen.ipynb)
 
@@ -167,7 +167,7 @@ Materialien
 
 * Jupyter Notebook: Mergesort.ipynb  
   * Zur lokalen Bearbeitung (Download):  
-    [Notebook](blob/main/notebooks/Mergesort.ipynb) – [Lösungen](blob/main/notebooks/Mergesort-Loesungen.ipynb)
+    [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Mergesort.ipynb) – [Lösungen](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Mergesort-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
     [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Mergesort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Mergesort-Loesungen.ipynb)
 
@@ -180,7 +180,7 @@ In diesem Notebook werden Bubblesort (mit den verschiedenen Optimierungen) und M
 Materialien
 
 * Zur lokalen Ansicht (Download):  
-  [Notebook](blob/main/notebooks/Vergleich-Bubble-Merge.ipynb)
+  [Notebook](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Vergleich-Bubble-Merge.ipynb)
 * Zur Ansicht auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Vergleich-Bubble-Merge.ipynb)
 * Sehen Sie zum Abschluss auch den [Vergleich der berühmtesten Sortieralgorithmen auf Toptal](https://www.toptal.com/developers/sorting-algorithms) an – ein sehr empfehlenswerter Link zu einer guten, grafischen Übersicht über verschiedene Sortieralgorithmen, die alle hier erarbeiteten Algorithmen enthält, aber auch noch weiter geht. Mit den hier gewonnen Fertigkeiten lassen sich auch die anderen Sortieralgorithmen umsetzen.
