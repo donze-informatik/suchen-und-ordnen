@@ -1,10 +1,1 @@
-$ cat .gitignore
-
-index copy.md
-
-notebooks_ALT/
-suchen-und-ordnen/
-
 .DS_Store
-
-assets/notebooks/downloads/cheatsheet.key
