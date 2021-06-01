@@ -183,3 +183,4 @@ Materialien
   [Notebook](assets/notebooks/Vergleich-Bubble-Merge.ipynb)
 * Zur Ansicht auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vergleich-Bubble-Merge.ipynb)
+* Sehen Sie zum Abschluss auch den [Vergleich der berühmtesten Sortieralgorithmen auf Toptal](https://www.toptal.com/developers/sorting-algorithms) an – ein sehr empfehlenswerter Link zu einer guten, grafischen Übersicht über verschiedene Sortieralgorithmen, die alle hier erarbeiteten Algorithmen enthält, aber auch noch weiter geht. Mit den hier gewonnen Fertigkeiten lassen sich auch die anderen Sortieralgorithmen umsetzen.

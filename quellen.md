@@ -29,11 +29,11 @@
 
 ## Animationen der Algorithmen
 
-* [Visualgo.net](https://visualgo.net/en/sorting?slide=1)
-* [David Galles, Computer Science, University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Search.html)
-* [Toptal: Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+* [David Galles, Computer Science, University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Search.html): Suchalgorithmen
+* [Visualgo.net](https://visualgo.net/en/sorting?slide=1): Sortieralgorithmen
+* [Toptal: Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms): Grafischer Vergleich der Sortieralgorithmen
 * [Brilliant: Sorting Algorithms](https://brilliant.org/wiki/sorting-algorithms/)
-* [AlgoRhytmics auf YouTube](https://www.youtube.com/channel/UCIqiLefbVHsOAXDAxQJH7Xw)
+* [AlgoRhytmics auf YouTube](https://www.youtube.com/channel/UCIqiLefbVHsOAXDAxQJH7Xw): Algorithmentänze
   * [Lineare Suche: Linear Search with Flamenco dance](https://www.youtube.com/watch?v=-PuqKbu9K3U)
   * [Binäre Suche: Binary Search with Flamenco dance](https://www.youtube.com/watch?v=iP897Z5Nerk)
   * [Insertion Sort: Insert-sort with Romanian folk dance](https://www.youtube.com/watch?v=ROalU379l3U)
