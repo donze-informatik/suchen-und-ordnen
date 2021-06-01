@@ -59,12 +59,12 @@ Inhalte
   Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (keine deutschen Untertitel verfügbar) zeigt auf, worauf Sie achten müssen, wenn Sie Algorithmen beschreiben.  
   [![Exact Instructions Challenge](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://youtu.be/FN2RM-CHkuI)
 
-Materialien  
+Materialien
 
 * Jupyter Notebook: Algorithmen.ipynb  
-  * Zur lokalen Bearbeitung (Download):  
+  * Zur lokalen Ansicht (Download):  
   [Notebook](assets/notebooks/Algorithmen.ipynb)
-  * Zur Bearbeitung auf Google Colaboration:  
+  * Zur Ansicht auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Algorithmen.ipynb)
   * Keine Lösungen, da dieses Notebook keine Programmieraufgaben enthält.
 
@@ -170,3 +170,16 @@ Materialien
     [Notebook](assets/notebooks/Mergesort.ipynb) – [Lösungen](assets/notebooks/Mergesort-Loesungen.ipynb)
   * Zur Bearbeitung auf Google Colaboration:  
     [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Mergesort.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Mergesort-Loesungen.ipynb)
+
+#### Abschluss
+
+Was bringen Optimierungen und was die Wahl des Algorithmus? 
+
+In diesem Notebook werden Bubblesort (mit den verschiedenen Optimierungen) und Mergesort verglichen. Sie müssen nichts selbst programmieren, können aber die Anzahl der Elemente anpassen und zusehen, wie sich der Unterschied auf eine sehr grosse Anzahl von Elementen auswirkt. Zu diesem Notebook gibt es keine Lösungen.
+
+Materialien
+
+* Zur lokalen Ansicht (Download):  
+  [Notebook](assets/notebooks/Vergleich-Bubble-Merge.ipynb)
+* Zur Ansicht auf Google Colaboration:  
+  [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/gh-pages/assets/notebooks/Vergleich-Bubble-Merge.ipynb)
