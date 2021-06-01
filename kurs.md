@@ -4,7 +4,7 @@
 
 Hier finden Sie alle Lernmaterialien. Sie können chronologisch durchgehen oder einzelne Themen herauspicken und diese unabhängig voneinander vertiefen.
 
-Um die Inhalte bearbeiten zu können, benötigen Sie Grundkenntnisse im Programmieren mit Python. Sie können diese im ersten Teil unter &laquo;[Vorbereitende Inhalte](#vorbereitendes)&raquo; auffrischen oder den Einstieg in Python finden, falls Sie mit einer anderen Sprache vertraut sind. Ergänzend steht Ihnen ein [Python-Cheatsheet (PDF)](blob/main/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
+Um die Inhalte bearbeiten zu können, benötigen Sie Grundkenntnisse im Programmieren mit Python. Sie können diese im ersten Teil unter &laquo;[Vorbereitende Inhalte](#vorbereitendes)&raquo; auffrischen oder den Einstieg in Python finden, falls Sie mit einer anderen Sprache vertraut sind. Ergänzend steht Ihnen ein [Python-Cheatsheet (PDF)](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
 Kenntnisse über Listen sind keine vorausgesetzt. Diese werden Sie [hier](#listen) erarbeiten und am Beispiel der Algorithmen vertiefen.
 
@@ -30,7 +30,7 @@ Materialien
   * Zur Bearbeitung auf Google Colaboration:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Erste-Schritte.ipynb) – [Lösungen](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Erste-Schritte-Loesungen.ipynb)
   
-* [Python-Cheatsheet (PDF)](blob/main/notebooks/downloads/cheatsheet.pdf):  
+* [Python-Cheatsheet (PDF)](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/downloads/cheatsheet.pdf):  
 Im Mathematik- und Physikunterricht haben Sie eine Formelsammlung. Dieses Cheatsheet ist etwas Ähnliches, allerdings Python-spezifisch mit Bezug auf generelle Programmierkonzepte.
 
 ## <span id="listen"> Listen als Sammelgefäss für Daten

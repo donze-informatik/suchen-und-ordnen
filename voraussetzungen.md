@@ -8,7 +8,7 @@ Kenntnisse über Listen als sequentielle Datenstruktur sind nicht vorausgesetzt.
 
 Die einzelnen Algorithmen lassen sich auch unabhängig voneinander bearbeiten.
 
-Jederzeit steht Ihnen ein [Python-Cheatsheet (PDF)](blob/main/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
+Jederzeit steht Ihnen ein [Python-Cheatsheet (PDF)](https://github.com/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/downloads/cheatsheet.pdf) zur Verfügung.
 
 ### Programmierkenntnisse
 
