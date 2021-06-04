@@ -8,6 +8,6 @@ Nach einer [übersichtlichen Einführung](./kurs#vorbereitendes) in Jupyter Note
 
 Im Teil [&laquo;Suchen und Ordnen&raquo;](./kurs.md#algorithmen) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen. Sie werden die Algorithmen implementieren, optimieren und visualisieren und sich dabei Gedanken machen zu ihrer Laufzeit und Eignung für verschiedenen Ausgangskonstellationen.
 
-Schauen Sie hier ein Einführungsvideo.  
+Sehen Sie sich hier das Einführungsvideo an.
 
 [![Einführung](https://img.youtube.com/vi/kWv7HbOH9Ao/0.jpg)](https://youtu.be/kWv7HbOH9Ao)

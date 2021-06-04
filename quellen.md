@@ -4,7 +4,7 @@
 
 ## Bücher
 
-* Fässler, L., Komm, D., Dahinden, M., Sichau, D. 2019. *Programmiereinführung mit Python und MATLAB. Begleitunterlagen zum Onlinekurs*. BoD - Books on Demand. Norderstedt.
+* Fässler, L., Komm, D., Dahinden, M., Sichau, D. 2019. *Programmiereinführung mit Python und MATLAB. Begleitunterlagen zum Onlinekurs*. Norderstedt: BoD - Books on Demand.
 
 ## Elektronische Quellen
 
@@ -30,7 +30,7 @@
 
 ## Animationen der Algorithmen
 
-* [David Galles, Computer Science, University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Search.html): Suchalgorithmen
+* David Galles, Computer Science, University of San Francisco: [Binary and Linear Search Visualization](https://www.cs.usfca.edu/~galles/visualization/Search.html): Suchalgorithmen
 * [Visualgo.net](https://visualgo.net/en/sorting?slide=1): Sortieralgorithmen
 * [Toptal: Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms): Grafischer Vergleich der Sortieralgorithmen
 * [Brilliant: Sorting Algorithms](https://brilliant.org/wiki/sorting-algorithms/)
@@ -48,7 +48,7 @@
   * Bild von [Peggy und Marco Lachmann-Anke](https://pixabay.com/de/users/peggy_marco-1553824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1013910) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1013910>)
   * Bild von [Peggy und Marco Lachmann-Anke](https://pixabay.com/de/users/peggy_marco-1553824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1013911) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1013911>)
 * Cheatsheet (Verzweigung): Bild von [Peggy und Marco Lachmann-Anke](https://pixabay.com/de/users/peggy_marco-1553824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1020284) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1020284>)
-* Algoritgmen: 5 Bilder:
+* Algorithmen: 5 Bilder:
   * Kreuzknoten	: Bild von [Clker-Free-Vector-Images](https://pixabay.com/de/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=311708) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=311708)
   * Bauklötze: Bild von [Ulrike Mai](https://pixabay.com/de/users/counselling-440107/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=456614) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=456614)
   * Zopf: Bild von [Albert Häsler](https://pixabay.com/de/users/hslergr1-284612/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=387842) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=387842)
