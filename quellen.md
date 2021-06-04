@@ -11,8 +11,8 @@
 * CS Unplugged:
   * [Sorting Algorithms](https://classic.csunplugged.org/sorting-algorithms/)
   * [Schiffe Versenken](https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnplugged_OS_2015_v3.2.2_AL_Ak-6.pdf)
-* Fässler, L., Komm, D., Dahinden, M., Sichau, D. (2020):  
- [E.Tutorial der ETH Zürich: Programmiergrundlagen Python (ausführlicher Kurs)](https://et.lecturers.inf.ethz.ch/viewer/course/b6wSvFsS8ydmuZ7R2?course_locale_key=de)
+* Fässler, L., Komm, D., Dahinden, M., Sichau, D. (2020): [E.Tutorial der ETH Zürich: Programmiergrundlagen Python (ausführlicher Kurs)](https://et.lecturers.inf.ethz.ch/viewer/course/b6wSvFsS8ydmuZ7R2?course_locale_key=de)
+* Ruh, N., Koch, D., Phillips, G., Stangl, M. (2021): [OInf.ch](https://oinf.ch/kurs/codes-und-algorithmen/algorithmen/)
 * Onlinereferenzen:
   * [Referenz Python](https://docs.python.org/3/)
   * [Referenz Matplotlib](https://matplotlib.org)
