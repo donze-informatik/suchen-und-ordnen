@@ -26,6 +26,7 @@
   * YouTube:
     * [Josh Darnit: Exact Instructions Challenge](https://youtu.be/FN2RM-CHkuI)
     * [Ted-ED: Fastest Way to alphetize your Bookshelf](https://youtu.be/WaNLJf8xzC4)
+    * [Einführungsvideo](https://www.youtube.com/watch?v=kWv7HbOH9Ao): erstellt mit [Simpleshow](https://videomaker.simpleshow.com/de/)
 
 ## Animationen der Algorithmen
 
