@@ -38,7 +38,7 @@ Dieser Kurs basiert auf der Programmiersprache **Python** und setzt die folgende
 
 ### Tools
 
-Dieser Kurs basiert auf Jupyter Notebooks. Sie können diese entweder **lokal auf Ihrem Gerät** verwenden oder **online auf Google Colaboration**.
+Dieser Kurs basiert auf Jupyter Notebooks. Sie können diese entweder **lokal auf Ihrem Gerät** verwenden oder **online auf Google Colaboratory**.
 
 In beiden Fällen (lokal und online) benötigen Sie
 
@@ -55,6 +55,6 @@ Zur **lokalen Verwendung** benötigen Sie ausserdem
   * beachten Sie, dass Sie in Ihrem Arbeitsverzeichnis die Jupyter-Notebook-Dateien (mit der Endung .ipynb) und ein Verzeichnis `bilder/` haben sollten, das die Bilder enthält.  
   Am einfachsten laden Sie gleich [hier](/assets/suchen-und-ordnen.zip) alle benötigten Dateien herunter und legen das Verzeichnis nach dem Entpacken so ab, dass Sie es finden, zum Beispiel im Verzeichnis, das Sie für den Informatikunterricht verwenden.
 
-Zur **Verwendung auf Google Colaboration** benötigen Sie
+Zur **Verwendung auf Google Colaboratory** benötigen Sie
 
 * einen persönlichen Google-Account, damit Sie Ihre bearbeiteten Notebooks speichern können.
