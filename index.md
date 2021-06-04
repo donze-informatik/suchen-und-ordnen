@@ -10,4 +10,4 @@ Im Teil [&laquo;Suchen und Ordnen&raquo;](./kurs.md#algorithmen) werden verschie
 
 Schauen Sie hier ein Einführungsvideo.  
 
-<video width="560" height="315" controls><source src="https://dw60dpjfwra4i.cloudfront.net/renderedVideo/dfc8f02c-a282-498b-9d88-39d541940b56.mp4) type="video/mp4">Ihr browser unterstützt das Video Tag nicht.</video>
+[![Einführung](https://img.youtube.com/vi/kWv7HbOH9Ao/0.jpg)](https://youtu.be/kWv7HbOH9Ao)
