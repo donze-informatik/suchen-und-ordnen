@@ -6,7 +6,9 @@ Hier lernen Sie, Daten strukturiert in Listen zu speichern und üben den Umgang 
 
 Nach einer [übersichtlichen Einführung](./kurs#vorbereitendes) in Jupyter Notebooks und Markdown sowie einer Auffrischung des vorausgesetzten Programmierwissens erfolgt eine [Einführung in Listen als sequentielle Datenstruktur](/kurs.md#listen).
 
-Im Teil [&laquo;Suchen und Ordnen&raquo;](./kurs.md#algorithmen) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen. Sie werden die Algorithmen implementieren, optimieren und visualisieren und sich dabei Gedanken machen zu ihrer Laufzeit und Eignung für verschiedenen Ausgangskonstellationen.
+Im Teil [&laquo;Suchen und Ordnen&raquo;](./kurs.md#algorithmen) werden verschiedene Such- und Sortieralgorithmen vertieft. Jeder Algorithmus erlaubt es Ihnen, sich konkret mit Listenoperationen zu befassen. Sie werden die Algorithmen implementieren, optimieren und visualisieren und sich dabei Gedanken machen zu ihrer Laufzeit und Eignung für verschiedene Ausgangskonstellationen.
+
+Ein [Python-Cheatsheet](https://raw.githubusercontent.com/donze-informatikunterricht/suchen-und-ordnen/main/notebooks/downloads/cheatsheet.pdf) erlaubt es Ihnen, jederzeit syntaktische Elemente nachzuschlagen.
 
 Sehen Sie sich hier das Einführungsvideo an.
 
