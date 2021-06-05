@@ -12,4 +12,4 @@ Ein [Python-Cheatsheet](https://raw.githubusercontent.com/donze-informatikunterr
 
 Sehen Sie sich hier das Einführungsvideo an.
 
-[![Einführung](https://img.youtube.com/vi/kWv7HbOH9Ao/0.jpg)](https://youtu.be/kWv7HbOH9Ao)
+[![Einführung](assets/images/titelbild.png)](https://youtu.be/kWv7HbOH9Ao)
