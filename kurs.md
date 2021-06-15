@@ -175,7 +175,7 @@ Materialien
 
 Was bringen Optimierungen und was die Wahl des Algorithmus? 
 
-In diesem Notebook werden Bubblesort (mit den verschiedenen Optimierungen) und Mergesort verglichen. Sie müssen nichts selbst programmieren, können aber die Anzahl der Elemente anpassen und zusehen, wie sich der Unterschied auf eine sehr grosse Anzahl von Elementen auswirkt. Zu diesem Notebook gibt es keine Lösungen.
+In diesem Notebook werden Bubble Sort (mit den verschiedenen Optimierungen) und Merge Sort verglichen. Sie müssen nichts selbst programmieren, können aber die Anzahl der Elemente anpassen und zusehen, wie sich der Unterschied auf eine sehr grosse Anzahl von Elementen auswirkt. Zu diesem Notebook gibt es keine Lösungen.
 
 Materialien
 
