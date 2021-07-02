@@ -67,6 +67,8 @@ Materialien
   * Zur Ansicht auf Google Colab:  
   [Notebook](https://colab.research.google.com/github/donze-informatikunterricht/suchen-und-ordnen/blob/main/notebooks/Algorithmen.ipynb)
   * Keine Lösungen, da dieses Notebook keine Programmieraufgaben enthält.
+  * [Übersicht über die verschiedenen Darstellungsformen (PDF)](assets/notebooks/downloads/cheatsheet_algorithmen–darstellung.pdf)
+  
 
 ### Vorbereitung der Evaluation von Such- und Sortieralgorithmen
 
