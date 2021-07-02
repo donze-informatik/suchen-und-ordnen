@@ -54,6 +54,7 @@ Materialien
 Inhalte
 
 * Eigenschaften von Algorithmen
+* Darstellung von Algorithmen
 * Einführung in die Komplexität
 * Exaktes Formulieren:  
   Der folgende Clip der Exact Instructions Challenge von Josh Darnit auf YouTube (keine deutschen Untertitel verfügbar) zeigt auf, worauf Sie achten müssen, wenn Sie Algorithmen beschreiben.  
